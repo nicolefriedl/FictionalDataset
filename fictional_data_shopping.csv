@@ -1,0 +1,1001 @@
+ID,Store,Payment Method,Customer Type,Shopping Day,Amount Spent,Items Purchased,Time Spent (min),Spend per Item,Shopping Summary
+1,MegaShop,Gift Card,New,Weekday,18.93,5,25.27,3.79,MegaShop | New Customer | Spent: $18.93
+2,DiscountStore,Gift Card,New,Weekday,27.11,3,34.02,9.04,DiscountStore | New Customer | Spent: $27.11
+3,GroceryWorld,Gift Card,Returning,Weekday,37.0,3,40.73,12.33,GroceryWorld | Returning Customer | Spent: $37.0
+4,DiscountStore,Gift Card,Returning,Weekday,20.08,3,29.23,6.69,DiscountStore | Returning Customer | Spent: $20.08
+5,DiscountStore,Gift Card,New,Weekend,6.23,5,30.24,1.25,DiscountStore | New Customer | Spent: $6.23
+6,QuickBuy,Credit Card,Loyal,Weekday,31.2,5,32.15,6.24,QuickBuy | Loyal Customer | Spent: $31.2
+7,GroceryWorld,Gift Card,New,Weekday,18.65,4,22.26,4.66,GroceryWorld | New Customer | Spent: $18.65
+8,GroceryWorld,Credit Card,Returning,Weekday,13.1,4,16.12,3.28,GroceryWorld | Returning Customer | Spent: $13.1
+9,GroceryWorld,Gift Card,Returning,Weekend,18.76,2,3.67,9.38,GroceryWorld | Returning Customer | Spent: $18.76
+10,DiscountStore,Mobile Payment,Loyal,Weekday,23.15,6,19.57,3.86,DiscountStore | Loyal Customer | Spent: $23.15
+11,MegaShop,Cash,Returning,Weekday,18.95,3,37.1,6.32,MegaShop | Returning Customer | Spent: $18.95
+12,GroceryWorld,Credit Card,Loyal,Weekend,2.94,2,19.46,1.47,GroceryWorld | Loyal Customer | Spent: $2.94
+13,DiscountStore,Gift Card,New,Weekday,33.97,6,26.43,5.66,DiscountStore | New Customer | Spent: $33.97
+14,QuickBuy,Mobile Payment,Loyal,Weekday,37.75,4,37.0,9.44,QuickBuy | Loyal Customer | Spent: $37.75
+15,MegaShop,Cash,New,Weekday,31.52,3,37.81,10.51,MegaShop | New Customer | Spent: $31.52
+16,QuickBuy,Credit Card,Loyal,Weekend,13.62,3,13.81,4.54,QuickBuy | Loyal Customer | Spent: $13.62
+17,MegaShop,Cash,Returning,Weekday,22.99,6,44.96,3.83,MegaShop | Returning Customer | Spent: $22.99
+18,DiscountStore,Mobile Payment,Loyal,Weekend,24.93,4,46.91,6.23,DiscountStore | Loyal Customer | Spent: $24.93
+19,SuperMart,Credit Card,Returning,Weekend,30.99,2,13.05,15.49,SuperMart | Returning Customer | Spent: $30.99
+20,MegaShop,Cash,Returning,Weekday,31.68,1,17.64,31.68,MegaShop | Returning Customer | Spent: $31.68
+21,QuickBuy,Gift Card,Returning,Weekday,17.66,3,47.87,5.89,QuickBuy | Returning Customer | Spent: $17.66
+22,DiscountStore,Credit Card,Returning,Weekday,25.82,4,27.8,6.45,DiscountStore | Returning Customer | Spent: $25.82
+23,MegaShop,Cash,New,Weekday,29.57,5,-3.3,5.91,MegaShop | New Customer | Spent: $29.57
+24,SuperMart,Mobile Payment,New,Weekday,39.56,6,9.0,6.59,SuperMart | New Customer | Spent: $39.56
+25,SuperMart,Mobile Payment,New,Weekend,32.05,2,26.26,16.02,SuperMart | New Customer | Spent: $32.05
+26,GroceryWorld,Credit Card,New,Weekend,32.89,4,12.55,8.22,GroceryWorld | New Customer | Spent: $32.89
+27,GroceryWorld,Cash,Loyal,Weekend,25.84,4,23.8,6.46,GroceryWorld | Loyal Customer | Spent: $25.84
+28,QuickBuy,Credit Card,New,Weekday,39.1,0,30.49,0.0,QuickBuy | New Customer | Spent: $39.1
+29,MegaShop,Credit Card,Loyal,Weekend,29.1,4,51.93,7.27,MegaShop | Loyal Customer | Spent: $29.1
+30,MegaShop,Cash,New,Weekend,16.39,5,25.64,3.28,MegaShop | New Customer | Spent: $16.39
+31,GroceryWorld,Cash,New,Weekend,39.03,2,46.09,19.52,GroceryWorld | New Customer | Spent: $39.03
+32,MegaShop,Gift Card,Returning,Weekday,31.98,5,51.43,6.4,MegaShop | Returning Customer | Spent: $31.98
+33,MegaShop,Cash,Returning,Weekend,20.57,4,51.51,5.14,MegaShop | Returning Customer | Spent: $20.57
+34,SuperMart,Mobile Payment,Returning,Weekday,20.21,5,34.27,4.04,SuperMart | Returning Customer | Spent: $20.21
+35,GroceryWorld,Credit Card,Returning,Weekday,27.97,2,0.55,13.98,GroceryWorld | Returning Customer | Spent: $27.97
+36,DiscountStore,Credit Card,Returning,Weekday,29.63,2,36.91,14.82,DiscountStore | Returning Customer | Spent: $29.63
+37,GroceryWorld,Mobile Payment,New,Weekend,26.97,0,45.73,0.0,GroceryWorld | New Customer | Spent: $26.97
+38,DiscountStore,Cash,Loyal,Weekend,28.11,4,28.78,7.03,DiscountStore | Loyal Customer | Spent: $28.11
+39,SuperMart,Mobile Payment,Loyal,Weekday,42.0,1,56.17,42.0,SuperMart | Loyal Customer | Spent: $42.0
+40,QuickBuy,Mobile Payment,Returning,Weekday,35.72,2,42.9,17.86,QuickBuy | Returning Customer | Spent: $35.72
+41,MegaShop,Gift Card,New,Weekday,26.91,3,38.52,8.97,MegaShop | New Customer | Spent: $26.91
+42,SuperMart,Mobile Payment,Returning,Weekday,34.41,2,46.3,17.21,SuperMart | Returning Customer | Spent: $34.41
+43,MegaShop,Credit Card,New,Weekday,14.67,2,35.0,7.34,MegaShop | New Customer | Spent: $14.67
+44,QuickBuy,Mobile Payment,New,Weekday,28.98,1,-7.39,28.98,QuickBuy | New Customer | Spent: $28.98
+45,QuickBuy,Credit Card,New,Weekend,43.09,3,22.51,14.36,QuickBuy | New Customer | Spent: $43.09
+46,SuperMart,Credit Card,Returning,Weekday,22.82,4,47.96,5.7,SuperMart | Returning Customer | Spent: $22.82
+47,QuickBuy,Credit Card,Loyal,Weekday,16.52,6,17.89,2.75,QuickBuy | Loyal Customer | Spent: $16.52
+48,DiscountStore,Cash,Returning,Weekday,18.48,3,26.65,6.16,DiscountStore | Returning Customer | Spent: $18.48
+49,QuickBuy,Gift Card,Returning,Weekend,14.1,2,14.33,7.05,QuickBuy | Returning Customer | Spent: $14.1
+50,MegaShop,Credit Card,Returning,Weekend,17.15,3,56.76,5.72,MegaShop | Returning Customer | Spent: $17.15
+51,MegaShop,Credit Card,New,Weekend,21.29,1,55.22,21.29,MegaShop | New Customer | Spent: $21.29
+52,MegaShop,Cash,New,Weekday,10.94,2,16.74,5.47,MegaShop | New Customer | Spent: $10.94
+53,MegaShop,Credit Card,Loyal,Weekday,25.16,1,32.21,25.16,MegaShop | Loyal Customer | Spent: $25.16
+54,DiscountStore,Mobile Payment,New,Weekday,34.02,3,19.79,11.34,DiscountStore | New Customer | Spent: $34.02
+55,GroceryWorld,Mobile Payment,Loyal,Weekend,15.92,4,39.22,3.98,GroceryWorld | Loyal Customer | Spent: $15.92
+56,SuperMart,Gift Card,Returning,Weekend,40.19,2,37.65,20.1,SuperMart | Returning Customer | Spent: $40.19
+57,MegaShop,Credit Card,Returning,Weekend,30.11,2,42.18,15.05,MegaShop | Returning Customer | Spent: $30.11
+58,QuickBuy,Cash,Returning,Weekend,35.31,3,34.98,11.77,QuickBuy | Returning Customer | Spent: $35.31
+59,MegaShop,Mobile Payment,Returning,Weekend,18.42,2,74.03,9.21,MegaShop | Returning Customer | Spent: $18.42
+60,QuickBuy,Cash,Loyal,Weekday,33.55,2,14.58,16.77,QuickBuy | Loyal Customer | Spent: $33.55
+61,QuickBuy,Cash,Loyal,Weekend,14.08,3,4.34,4.69,QuickBuy | Loyal Customer | Spent: $14.08
+62,MegaShop,Mobile Payment,Returning,Weekday,33.9,1,24.1,33.9,MegaShop | Returning Customer | Spent: $33.9
+63,DiscountStore,Cash,New,Weekday,26.72,6,6.48,4.45,DiscountStore | New Customer | Spent: $26.72
+64,QuickBuy,Mobile Payment,Returning,Weekday,30.53,2,7.61,15.27,QuickBuy | Returning Customer | Spent: $30.53
+65,QuickBuy,Cash,Loyal,Weekday,13.24,2,14.98,6.62,QuickBuy | Loyal Customer | Spent: $13.24
+66,MegaShop,Mobile Payment,New,Weekday,16.05,2,16.17,8.02,MegaShop | New Customer | Spent: $16.05
+67,QuickBuy,Credit Card,Returning,Weekday,30.97,4,15.68,7.74,QuickBuy | Returning Customer | Spent: $30.97
+68,QuickBuy,Gift Card,Returning,Weekday,15.52,1,37.77,15.52,QuickBuy | Returning Customer | Spent: $15.52
+69,MegaShop,Mobile Payment,Returning,Weekday,29.63,2,22.41,14.82,MegaShop | Returning Customer | Spent: $29.63
+70,MegaShop,Mobile Payment,New,Weekday,11.33,4,27.31,2.83,MegaShop | New Customer | Spent: $11.33
+71,SuperMart,Gift Card,Returning,Weekday,33.48,3,43.41,11.16,SuperMart | Returning Customer | Spent: $33.48
+72,DiscountStore,Mobile Payment,Loyal,Weekday,12.67,3,18.51,4.22,DiscountStore | Loyal Customer | Spent: $12.67
+73,DiscountStore,Mobile Payment,New,Weekday,30.52,3,26.03,10.17,DiscountStore | New Customer | Spent: $30.52
+74,QuickBuy,Cash,New,Weekend,31.26,6,35.49,5.21,QuickBuy | New Customer | Spent: $31.26
+75,DiscountStore,Gift Card,Loyal,Weekend,18.03,3,0.88,6.01,DiscountStore | Loyal Customer | Spent: $18.03
+76,QuickBuy,Credit Card,New,Weekend,30.82,3,-5.77,10.27,QuickBuy | New Customer | Spent: $30.82
+77,SuperMart,Mobile Payment,Loyal,Weekend,27.6,1,35.19,27.6,SuperMart | Loyal Customer | Spent: $27.6
+78,MegaShop,Gift Card,Returning,Weekday,19.61,2,37.38,9.81,MegaShop | Returning Customer | Spent: $19.61
+79,MegaShop,Cash,New,Weekend,14.91,4,60.96,3.73,MegaShop | New Customer | Spent: $14.91
+80,MegaShop,Credit Card,Loyal,Weekday,5.37,3,32.37,1.79,MegaShop | Loyal Customer | Spent: $5.37
+81,DiscountStore,Gift Card,Returning,Weekday,28.5,3,42.3,9.5,DiscountStore | Returning Customer | Spent: $28.5
+82,SuperMart,Credit Card,Returning,Weekend,9.35,2,27.07,4.68,SuperMart | Returning Customer | Spent: $9.35
+83,DiscountStore,Credit Card,New,Weekday,25.95,3,34.46,8.65,DiscountStore | New Customer | Spent: $25.95
+84,DiscountStore,Credit Card,Returning,Weekend,22.37,1,55.01,22.37,DiscountStore | Returning Customer | Spent: $22.37
+85,SuperMart,Mobile Payment,New,Weekend,31.79,2,-1.86,15.9,SuperMart | New Customer | Spent: $31.79
+86,SuperMart,Mobile Payment,New,Weekend,21.98,2,36.2,10.99,SuperMart | New Customer | Spent: $21.98
+87,SuperMart,Cash,Loyal,Weekend,21.71,3,62.03,7.24,SuperMart | Loyal Customer | Spent: $21.71
+88,SuperMart,Cash,New,Weekday,32.32,5,34.23,6.46,SuperMart | New Customer | Spent: $32.32
+89,MegaShop,Gift Card,Returning,Weekday,28.35,3,54.76,9.45,MegaShop | Returning Customer | Spent: $28.35
+90,GroceryWorld,Cash,New,Weekday,28.16,6,20.56,4.69,GroceryWorld | New Customer | Spent: $28.16
+91,GroceryWorld,Credit Card,Returning,Weekday,29.69,2,29.52,14.85,GroceryWorld | Returning Customer | Spent: $29.69
+92,SuperMart,Credit Card,New,Weekend,9.64,5,30.5,1.93,SuperMart | New Customer | Spent: $9.64
+93,GroceryWorld,Mobile Payment,Loyal,Weekend,32.57,6,-3.26,5.43,GroceryWorld | Loyal Customer | Spent: $32.57
+94,GroceryWorld,Credit Card,Returning,Weekend,31.12,6,12.48,5.19,GroceryWorld | Returning Customer | Spent: $31.12
+95,SuperMart,Gift Card,New,Weekday,14.83,3,13.55,4.94,SuperMart | New Customer | Spent: $14.83
+96,GroceryWorld,Credit Card,New,Weekday,22.56,4,42.33,5.64,GroceryWorld | New Customer | Spent: $22.56
+97,DiscountStore,Credit Card,New,Weekday,24.61,3,43.08,8.2,DiscountStore | New Customer | Spent: $24.61
+98,QuickBuy,Gift Card,Returning,Weekday,23.66,2,34.86,11.83,QuickBuy | Returning Customer | Spent: $23.66
+99,QuickBuy,Cash,New,Weekend,28.34,5,42.36,5.67,QuickBuy | New Customer | Spent: $28.34
+100,SuperMart,Cash,Loyal,Weekday,39.31,4,27.54,9.83,SuperMart | Loyal Customer | Spent: $39.31
+101,MegaShop,Gift Card,Returning,Weekday,35.82,2,48.03,17.91,MegaShop | Returning Customer | Spent: $35.82
+102,SuperMart,Mobile Payment,New,Weekday,11.88,0,30.13,0.0,SuperMart | New Customer | Spent: $11.88
+103,MegaShop,Credit Card,Returning,Weekend,31.22,0,30.87,0.0,MegaShop | Returning Customer | Spent: $31.22
+104,QuickBuy,Gift Card,Returning,Weekend,38.29,5,26.02,7.66,QuickBuy | Returning Customer | Spent: $38.29
+105,SuperMart,Credit Card,New,Weekday,28.87,6,40.27,4.81,SuperMart | New Customer | Spent: $28.87
+106,DiscountStore,Mobile Payment,New,Weekday,35.91,1,23.68,35.91,DiscountStore | New Customer | Spent: $35.91
+107,GroceryWorld,Credit Card,New,Weekday,45.12,2,44.65,22.56,GroceryWorld | New Customer | Spent: $45.12
+108,MegaShop,Gift Card,Returning,Weekday,35.24,5,13.02,7.05,MegaShop | Returning Customer | Spent: $35.24
+109,GroceryWorld,Credit Card,Returning,Weekend,27.49,4,13.52,6.87,GroceryWorld | Returning Customer | Spent: $27.49
+110,GroceryWorld,Cash,Returning,Weekend,35.45,3,40.31,11.82,GroceryWorld | Returning Customer | Spent: $35.45
+111,SuperMart,Mobile Payment,Loyal,Weekday,26.45,2,28.67,13.22,SuperMart | Loyal Customer | Spent: $26.45
+112,GroceryWorld,Mobile Payment,Loyal,Weekday,25.24,0,23.19,0.0,GroceryWorld | Loyal Customer | Spent: $25.24
+113,DiscountStore,Mobile Payment,Returning,Weekend,21.49,4,43.35,5.37,DiscountStore | Returning Customer | Spent: $21.49
+114,GroceryWorld,Gift Card,Loyal,Weekday,40.63,5,20.89,8.13,GroceryWorld | Loyal Customer | Spent: $40.63
+115,SuperMart,Mobile Payment,New,Weekend,16.82,2,27.0,8.41,SuperMart | New Customer | Spent: $16.82
+116,DiscountStore,Cash,New,Weekday,40.32,3,50.99,13.44,DiscountStore | New Customer | Spent: $40.32
+117,QuickBuy,Gift Card,New,Weekday,30.0,7,53.09,4.29,QuickBuy | New Customer | Spent: $30.0
+118,GroceryWorld,Cash,New,Weekday,11.01,5,53.59,2.2,GroceryWorld | New Customer | Spent: $11.01
+119,SuperMart,Credit Card,Returning,Weekday,28.68,3,25.77,9.56,SuperMart | Returning Customer | Spent: $28.68
+120,QuickBuy,Credit Card,Loyal,Weekend,4.0,1,48.46,4.0,QuickBuy | Loyal Customer | Spent: $4.0
+121,QuickBuy,Credit Card,New,Weekday,31.26,3,15.77,10.42,QuickBuy | New Customer | Spent: $31.26
+122,MegaShop,Credit Card,New,Weekday,33.85,4,16.4,8.46,MegaShop | New Customer | Spent: $33.85
+123,DiscountStore,Cash,Returning,Weekday,19.08,1,-5.26,19.08,DiscountStore | Returning Customer | Spent: $19.08
+124,GroceryWorld,Gift Card,Loyal,Weekday,26.24,3,55.09,8.75,GroceryWorld | Loyal Customer | Spent: $26.24
+125,SuperMart,Gift Card,New,Weekday,44.54,3,17.04,14.85,SuperMart | New Customer | Spent: $44.54
+126,MegaShop,Mobile Payment,Returning,Weekday,19.94,4,28.1,4.99,MegaShop | Returning Customer | Spent: $19.94
+127,DiscountStore,Cash,New,Weekend,14.41,1,16.35,14.41,DiscountStore | New Customer | Spent: $14.41
+128,MegaShop,Credit Card,New,Weekday,39.82,2,40.43,19.91,MegaShop | New Customer | Spent: $39.82
+129,DiscountStore,Cash,Loyal,Weekday,44.63,3,24.37,14.88,DiscountStore | Loyal Customer | Spent: $44.63
+130,DiscountStore,Mobile Payment,Loyal,Weekend,25.04,2,10.43,12.52,DiscountStore | Loyal Customer | Spent: $25.04
+131,GroceryWorld,Mobile Payment,New,Weekday,35.11,1,36.62,35.11,GroceryWorld | New Customer | Spent: $35.11
+132,DiscountStore,Cash,Loyal,Weekend,38.41,1,8.49,38.41,DiscountStore | Loyal Customer | Spent: $38.41
+133,MegaShop,Cash,Returning,Weekday,17.58,3,17.44,5.86,MegaShop | Returning Customer | Spent: $17.58
+134,DiscountStore,Cash,Loyal,Weekend,20.15,0,-1.6,0.0,DiscountStore | Loyal Customer | Spent: $20.15
+135,GroceryWorld,Gift Card,Returning,Weekend,37.31,3,8.64,12.44,GroceryWorld | Returning Customer | Spent: $37.31
+136,GroceryWorld,Credit Card,Returning,Weekend,41.85,1,32.68,41.85,GroceryWorld | Returning Customer | Spent: $41.85
+137,MegaShop,Cash,Returning,Weekend,30.63,1,0.53,30.63,MegaShop | Returning Customer | Spent: $30.63
+138,QuickBuy,Cash,Returning,Weekday,16.2,7,7.78,2.31,QuickBuy | Returning Customer | Spent: $16.2
+139,QuickBuy,Cash,New,Weekend,44.87,3,29.96,14.96,QuickBuy | New Customer | Spent: $44.87
+140,DiscountStore,Mobile Payment,New,Weekday,19.69,2,21.85,9.85,DiscountStore | New Customer | Spent: $19.69
+141,SuperMart,Mobile Payment,New,Weekday,21.65,4,59.88,5.41,SuperMart | New Customer | Spent: $21.65
+142,DiscountStore,Gift Card,Returning,Weekday,28.42,4,57.51,7.11,DiscountStore | Returning Customer | Spent: $28.42
+143,MegaShop,Credit Card,New,Weekday,40.54,0,16.98,0.0,MegaShop | New Customer | Spent: $40.54
+144,MegaShop,Gift Card,Returning,Weekday,33.54,3,38.36,11.18,MegaShop | Returning Customer | Spent: $33.54
+145,MegaShop,Credit Card,Loyal,Weekday,29.15,3,41.24,9.72,MegaShop | Loyal Customer | Spent: $29.15
+146,MegaShop,Mobile Payment,New,Weekday,29.63,7,21.04,4.23,MegaShop | New Customer | Spent: $29.63
+147,MegaShop,Mobile Payment,Returning,Weekend,25.44,3,7.57,8.48,MegaShop | Returning Customer | Spent: $25.44
+148,GroceryWorld,Mobile Payment,Returning,Weekend,30.58,2,29.82,15.29,GroceryWorld | Returning Customer | Spent: $30.58
+149,QuickBuy,Gift Card,Loyal,Weekday,-0.3,4,27.41,-0.07,QuickBuy | Loyal Customer | Spent: $-0.3
+150,MegaShop,Cash,New,Weekday,22.03,2,23.46,11.02,MegaShop | New Customer | Spent: $22.03
+151,SuperMart,Cash,Returning,Weekday,27.41,2,36.63,13.71,SuperMart | Returning Customer | Spent: $27.41
+152,SuperMart,Mobile Payment,Loyal,Weekday,13.49,3,18.74,4.5,SuperMart | Loyal Customer | Spent: $13.49
+153,SuperMart,Cash,Loyal,Weekday,28.86,0,12.72,0.0,SuperMart | Loyal Customer | Spent: $28.86
+154,SuperMart,Cash,Returning,Weekday,22.96,0,31.64,0.0,SuperMart | Returning Customer | Spent: $22.96
+155,GroceryWorld,Gift Card,Returning,Weekday,42.55,3,35.79,14.18,GroceryWorld | Returning Customer | Spent: $42.55
+156,SuperMart,Credit Card,Returning,Weekend,40.73,4,12.35,10.18,SuperMart | Returning Customer | Spent: $40.73
+157,MegaShop,Mobile Payment,Loyal,Weekday,20.34,6,43.92,3.39,MegaShop | Loyal Customer | Spent: $20.34
+158,DiscountStore,Mobile Payment,Returning,Weekday,23.49,4,3.44,5.87,DiscountStore | Returning Customer | Spent: $23.49
+159,SuperMart,Gift Card,New,Weekday,24.26,2,21.33,12.13,SuperMart | New Customer | Spent: $24.26
+160,GroceryWorld,Gift Card,Loyal,Weekday,20.48,2,26.13,10.24,GroceryWorld | Loyal Customer | Spent: $20.48
+161,GroceryWorld,Cash,Returning,Weekday,26.95,8,20.46,3.37,GroceryWorld | Returning Customer | Spent: $26.95
+162,SuperMart,Mobile Payment,Returning,Weekend,17.42,4,21.52,4.35,SuperMart | Returning Customer | Spent: $17.42
+163,DiscountStore,Credit Card,New,Weekday,13.69,3,58.07,4.56,DiscountStore | New Customer | Spent: $13.69
+164,SuperMart,Gift Card,Returning,Weekday,31.23,1,17.24,31.23,SuperMart | Returning Customer | Spent: $31.23
+165,GroceryWorld,Credit Card,New,Weekend,31.3,2,66.62,15.65,GroceryWorld | New Customer | Spent: $31.3
+166,QuickBuy,Credit Card,Returning,Weekend,16.96,1,36.56,16.96,QuickBuy | Returning Customer | Spent: $16.96
+167,MegaShop,Mobile Payment,New,Weekend,33.95,3,31.38,11.32,MegaShop | New Customer | Spent: $33.95
+168,GroceryWorld,Mobile Payment,Returning,Weekday,18.68,4,37.14,4.67,GroceryWorld | Returning Customer | Spent: $18.68
+169,SuperMart,Gift Card,Loyal,Weekend,27.53,0,67.95,0.0,SuperMart | Loyal Customer | Spent: $27.53
+170,MegaShop,Mobile Payment,New,Weekday,33.2,2,15.1,16.6,MegaShop | New Customer | Spent: $33.2
+171,SuperMart,Mobile Payment,Loyal,Weekday,24.66,5,13.19,4.93,SuperMart | Loyal Customer | Spent: $24.66
+172,SuperMart,Mobile Payment,Returning,Weekday,29.55,5,18.68,5.91,SuperMart | Returning Customer | Spent: $29.55
+173,QuickBuy,Credit Card,Loyal,Weekday,19.84,3,30.48,6.61,QuickBuy | Loyal Customer | Spent: $19.84
+174,MegaShop,Gift Card,Returning,Weekday,23.04,1,4.11,23.04,MegaShop | Returning Customer | Spent: $23.04
+175,MegaShop,Cash,Returning,Weekday,22.94,3,30.34,7.65,MegaShop | Returning Customer | Spent: $22.94
+176,QuickBuy,Credit Card,Returning,Weekend,17.53,2,55.4,8.77,QuickBuy | Returning Customer | Spent: $17.53
+177,GroceryWorld,Mobile Payment,Loyal,Weekend,23.23,5,32.27,4.65,GroceryWorld | Loyal Customer | Spent: $23.23
+178,SuperMart,Credit Card,Returning,Weekend,9.51,1,25.61,9.51,SuperMart | Returning Customer | Spent: $9.51
+179,DiscountStore,Mobile Payment,New,Weekday,20.09,3,20.73,6.7,DiscountStore | New Customer | Spent: $20.09
+180,SuperMart,Mobile Payment,Returning,Weekend,22.15,3,43.48,7.38,SuperMart | Returning Customer | Spent: $22.15
+181,SuperMart,Credit Card,Loyal,Weekday,22.44,4,17.61,5.61,SuperMart | Loyal Customer | Spent: $22.44
+182,GroceryWorld,Gift Card,Returning,Weekend,22.59,2,57.7,11.29,GroceryWorld | Returning Customer | Spent: $22.59
+183,SuperMart,Mobile Payment,Returning,Weekday,24.38,2,59.0,12.19,SuperMart | Returning Customer | Spent: $24.38
+184,QuickBuy,Gift Card,Returning,Weekend,29.79,1,33.85,29.79,QuickBuy | Returning Customer | Spent: $29.79
+185,QuickBuy,Cash,Loyal,Weekday,33.75,0,29.83,0.0,QuickBuy | Loyal Customer | Spent: $33.75
+186,MegaShop,Mobile Payment,New,Weekend,18.5,2,45.46,9.25,MegaShop | New Customer | Spent: $18.5
+187,DiscountStore,Gift Card,Returning,Weekend,12.97,2,46.42,6.48,DiscountStore | Returning Customer | Spent: $12.97
+188,SuperMart,Gift Card,New,Weekday,14.58,1,17.91,14.58,SuperMart | New Customer | Spent: $14.58
+189,SuperMart,Cash,New,Weekday,20.13,5,22.1,4.03,SuperMart | New Customer | Spent: $20.13
+190,GroceryWorld,Gift Card,New,Weekend,21.48,7,10.16,3.07,GroceryWorld | New Customer | Spent: $21.48
+191,QuickBuy,Gift Card,New,Weekday,17.3,2,36.14,8.65,QuickBuy | New Customer | Spent: $17.3
+192,DiscountStore,Cash,Returning,Weekend,12.04,2,40.0,6.02,DiscountStore | Returning Customer | Spent: $12.04
+193,MegaShop,Mobile Payment,New,Weekday,20.44,2,9.75,10.22,MegaShop | New Customer | Spent: $20.44
+194,QuickBuy,Gift Card,Returning,Weekday,26.81,1,23.17,26.81,QuickBuy | Returning Customer | Spent: $26.81
+195,MegaShop,Gift Card,New,Weekday,30.95,2,9.79,15.48,MegaShop | New Customer | Spent: $30.95
+196,GroceryWorld,Gift Card,New,Weekday,19.43,2,16.52,9.71,GroceryWorld | New Customer | Spent: $19.43
+197,GroceryWorld,Credit Card,New,Weekend,20.87,5,38.27,4.17,GroceryWorld | New Customer | Spent: $20.87
+198,SuperMart,Cash,New,Weekday,15.73,0,19.0,0.0,SuperMart | New Customer | Spent: $15.73
+199,DiscountStore,Credit Card,Returning,Weekday,24.69,3,25.49,8.23,DiscountStore | Returning Customer | Spent: $24.69
+200,MegaShop,Cash,Returning,Weekday,16.52,2,5.59,8.26,MegaShop | Returning Customer | Spent: $16.52
+201,QuickBuy,Mobile Payment,Returning,Weekday,30.73,5,32.8,6.15,QuickBuy | Returning Customer | Spent: $30.73
+202,GroceryWorld,Mobile Payment,Returning,Weekend,7.14,3,29.34,2.38,GroceryWorld | Returning Customer | Spent: $7.14
+203,SuperMart,Gift Card,New,Weekend,21.4,5,19.07,4.28,SuperMart | New Customer | Spent: $21.4
+204,SuperMart,Cash,Loyal,Weekday,28.01,6,27.16,4.67,SuperMart | Loyal Customer | Spent: $28.01
+205,MegaShop,Mobile Payment,Returning,Weekend,26.84,3,32.7,8.95,MegaShop | Returning Customer | Spent: $26.84
+206,GroceryWorld,Cash,Returning,Weekend,51.93,5,17.78,10.39,GroceryWorld | Returning Customer | Spent: $51.93
+207,DiscountStore,Mobile Payment,New,Weekday,28.5,2,7.86,14.25,DiscountStore | New Customer | Spent: $28.5
+208,GroceryWorld,Credit Card,New,Weekend,14.96,0,57.08,0.0,GroceryWorld | New Customer | Spent: $14.96
+209,MegaShop,Mobile Payment,New,Weekday,24.05,6,20.5,4.01,MegaShop | New Customer | Spent: $24.05
+210,MegaShop,Credit Card,New,Weekday,7.24,5,28.55,1.45,MegaShop | New Customer | Spent: $7.24
+211,GroceryWorld,Mobile Payment,Returning,Weekend,24.19,3,45.16,8.06,GroceryWorld | Returning Customer | Spent: $24.19
+212,MegaShop,Gift Card,Returning,Weekday,16.67,6,82.94,2.78,MegaShop | Returning Customer | Spent: $16.67
+213,GroceryWorld,Credit Card,Returning,Weekend,34.15,3,11.33,11.38,GroceryWorld | Returning Customer | Spent: $34.15
+214,QuickBuy,Mobile Payment,Returning,Weekend,19.5,1,36.75,19.5,QuickBuy | Returning Customer | Spent: $19.5
+215,GroceryWorld,Gift Card,Loyal,Weekday,23.83,0,19.39,0.0,GroceryWorld | Loyal Customer | Spent: $23.83
+216,GroceryWorld,Credit Card,Returning,Weekend,18.64,2,21.92,9.32,GroceryWorld | Returning Customer | Spent: $18.64
+217,MegaShop,Gift Card,Loyal,Weekday,42.39,2,19.2,21.19,MegaShop | Loyal Customer | Spent: $42.39
+218,MegaShop,Cash,New,Weekday,21.79,4,13.12,5.45,MegaShop | New Customer | Spent: $21.79
+219,SuperMart,Cash,New,Weekend,43.33,5,29.38,8.67,SuperMart | New Customer | Spent: $43.33
+220,SuperMart,Credit Card,New,Weekend,33.14,1,7.88,33.14,SuperMart | New Customer | Spent: $33.14
+221,QuickBuy,Mobile Payment,Returning,Weekday,29.82,4,44.2,7.46,QuickBuy | Returning Customer | Spent: $29.82
+222,SuperMart,Credit Card,Loyal,Weekday,28.69,3,30.83,9.56,SuperMart | Loyal Customer | Spent: $28.69
+223,GroceryWorld,Gift Card,New,Weekend,28.94,2,36.34,14.47,GroceryWorld | New Customer | Spent: $28.94
+224,MegaShop,Mobile Payment,Loyal,Weekend,5.72,3,23.01,1.91,MegaShop | Loyal Customer | Spent: $5.72
+225,SuperMart,Cash,New,Weekend,22.21,2,24.49,11.11,SuperMart | New Customer | Spent: $22.21
+226,SuperMart,Mobile Payment,Loyal,Weekday,33.45,3,34.31,11.15,SuperMart | Loyal Customer | Spent: $33.45
+227,QuickBuy,Cash,New,Weekday,24.51,5,12.54,4.9,QuickBuy | New Customer | Spent: $24.51
+228,QuickBuy,Mobile Payment,New,Weekday,10.95,2,24.63,5.47,QuickBuy | New Customer | Spent: $10.95
+229,GroceryWorld,Mobile Payment,Returning,Weekend,24.48,5,17.11,4.9,GroceryWorld | Returning Customer | Spent: $24.48
+230,MegaShop,Mobile Payment,New,Weekday,42.04,1,16.64,42.04,MegaShop | New Customer | Spent: $42.04
+231,QuickBuy,Gift Card,New,Weekday,37.47,0,-1.65,0.0,QuickBuy | New Customer | Spent: $37.47
+232,SuperMart,Gift Card,New,Weekend,24.38,4,50.09,6.09,SuperMart | New Customer | Spent: $24.38
+233,MegaShop,Credit Card,Loyal,Weekday,34.51,6,19.7,5.75,MegaShop | Loyal Customer | Spent: $34.51
+234,MegaShop,Credit Card,Returning,Weekend,21.33,4,47.45,5.33,MegaShop | Returning Customer | Spent: $21.33
+235,SuperMart,Cash,New,Weekend,7.96,3,46.03,2.65,SuperMart | New Customer | Spent: $7.96
+236,QuickBuy,Gift Card,Returning,Weekend,15.76,5,10.71,3.15,QuickBuy | Returning Customer | Spent: $15.76
+237,SuperMart,Cash,Returning,Weekday,40.63,2,13.67,20.31,SuperMart | Returning Customer | Spent: $40.63
+238,MegaShop,Credit Card,New,Weekday,22.26,2,68.41,11.13,MegaShop | New Customer | Spent: $22.26
+239,DiscountStore,Cash,Returning,Weekend,22.57,2,56.26,11.28,DiscountStore | Returning Customer | Spent: $22.57
+240,DiscountStore,Credit Card,New,Weekend,22.0,4,29.53,5.5,DiscountStore | New Customer | Spent: $22.0
+241,GroceryWorld,Gift Card,New,Weekend,44.04,3,33.86,14.68,GroceryWorld | New Customer | Spent: $44.04
+242,SuperMart,Mobile Payment,Returning,Weekday,41.26,5,20.54,8.25,SuperMart | Returning Customer | Spent: $41.26
+243,SuperMart,Gift Card,New,Weekend,47.19,2,36.49,23.59,SuperMart | New Customer | Spent: $47.19
+244,GroceryWorld,Cash,Returning,Weekend,23.41,2,19.24,11.7,GroceryWorld | Returning Customer | Spent: $23.41
+245,GroceryWorld,Cash,Returning,Weekend,27.96,3,-0.49,9.32,GroceryWorld | Returning Customer | Spent: $27.96
+246,GroceryWorld,Gift Card,New,Weekend,9.83,3,10.18,3.28,GroceryWorld | New Customer | Spent: $9.83
+247,MegaShop,Gift Card,Returning,Weekend,39.77,4,30.32,9.94,MegaShop | Returning Customer | Spent: $39.77
+248,SuperMart,Credit Card,New,Weekend,13.32,1,13.03,13.32,SuperMart | New Customer | Spent: $13.32
+249,MegaShop,Cash,Loyal,Weekday,27.17,0,28.99,0.0,MegaShop | Loyal Customer | Spent: $27.17
+250,GroceryWorld,Cash,Returning,Weekday,14.03,1,13.88,14.03,GroceryWorld | Returning Customer | Spent: $14.03
+251,SuperMart,Gift Card,Loyal,Weekday,19.11,4,18.26,4.78,SuperMart | Loyal Customer | Spent: $19.11
+252,MegaShop,Mobile Payment,Returning,Weekday,16.63,3,42.8,5.54,MegaShop | Returning Customer | Spent: $16.63
+253,MegaShop,Cash,New,Weekday,18.92,4,33.71,4.73,MegaShop | New Customer | Spent: $18.92
+254,GroceryWorld,Mobile Payment,Returning,Weekday,19.61,1,29.86,19.61,GroceryWorld | Returning Customer | Spent: $19.61
+255,SuperMart,Gift Card,Loyal,Weekday,19.52,5,43.18,3.9,SuperMart | Loyal Customer | Spent: $19.52
+256,GroceryWorld,Gift Card,Returning,Weekday,33.33,3,37.21,11.11,GroceryWorld | Returning Customer | Spent: $33.33
+257,SuperMart,Credit Card,Loyal,Weekend,13.95,4,51.7,3.49,SuperMart | Loyal Customer | Spent: $13.95
+258,DiscountStore,Cash,Loyal,Weekend,27.21,4,23.1,6.8,DiscountStore | Loyal Customer | Spent: $27.21
+259,QuickBuy,Mobile Payment,New,Weekday,37.18,4,23.56,9.29,QuickBuy | New Customer | Spent: $37.18
+260,QuickBuy,Credit Card,New,Weekend,19.87,1,10.48,19.87,QuickBuy | New Customer | Spent: $19.87
+261,QuickBuy,Cash,Returning,Weekday,17.82,4,23.57,4.46,QuickBuy | Returning Customer | Spent: $17.82
+262,GroceryWorld,Credit Card,Returning,Weekday,22.69,3,44.47,7.56,GroceryWorld | Returning Customer | Spent: $22.69
+263,DiscountStore,Gift Card,Loyal,Weekday,36.8,2,49.5,18.4,DiscountStore | Loyal Customer | Spent: $36.8
+264,SuperMart,Cash,Loyal,Weekday,26.94,5,44.4,5.39,SuperMart | Loyal Customer | Spent: $26.94
+265,MegaShop,Credit Card,New,Weekend,19.69,4,3.09,4.92,MegaShop | New Customer | Spent: $19.69
+266,SuperMart,Credit Card,New,Weekend,29.84,3,46.25,9.95,SuperMart | New Customer | Spent: $29.84
+267,MegaShop,Mobile Payment,Returning,Weekday,13.98,4,2.42,3.49,MegaShop | Returning Customer | Spent: $13.98
+268,SuperMart,Credit Card,New,Weekday,31.81,4,43.47,7.95,SuperMart | New Customer | Spent: $31.81
+269,DiscountStore,Cash,Loyal,Weekday,29.09,3,24.48,9.7,DiscountStore | Loyal Customer | Spent: $29.09
+270,MegaShop,Cash,Returning,Weekday,21.92,1,40.54,21.92,MegaShop | Returning Customer | Spent: $21.92
+271,GroceryWorld,Mobile Payment,Returning,Weekday,16.61,2,10.01,8.31,GroceryWorld | Returning Customer | Spent: $16.61
+272,SuperMart,Cash,New,Weekday,16.13,0,47.57,0.0,SuperMart | New Customer | Spent: $16.13
+273,SuperMart,Gift Card,Returning,Weekend,30.35,4,8.03,7.59,SuperMart | Returning Customer | Spent: $30.35
+274,MegaShop,Cash,Returning,Weekend,37.29,1,19.97,37.29,MegaShop | Returning Customer | Spent: $37.29
+275,GroceryWorld,Cash,Returning,Weekday,18.63,5,15.03,3.73,GroceryWorld | Returning Customer | Spent: $18.63
+276,GroceryWorld,Credit Card,New,Weekend,29.58,1,3.69,29.58,GroceryWorld | New Customer | Spent: $29.58
+277,DiscountStore,Credit Card,Returning,Weekday,4.13,4,31.42,1.03,DiscountStore | Returning Customer | Spent: $4.13
+278,GroceryWorld,Cash,Loyal,Weekday,19.15,1,57.09,19.15,GroceryWorld | Loyal Customer | Spent: $19.15
+279,GroceryWorld,Mobile Payment,New,Weekday,24.69,6,70.0,4.11,GroceryWorld | New Customer | Spent: $24.69
+280,GroceryWorld,Credit Card,New,Weekend,15.9,4,31.46,3.98,GroceryWorld | New Customer | Spent: $15.9
+281,QuickBuy,Mobile Payment,New,Weekend,15.63,1,46.75,15.63,QuickBuy | New Customer | Spent: $15.63
+282,DiscountStore,Cash,Returning,Weekend,18.32,3,33.48,6.11,DiscountStore | Returning Customer | Spent: $18.32
+283,SuperMart,Cash,Returning,Weekday,27.92,3,37.48,9.31,SuperMart | Returning Customer | Spent: $27.92
+284,MegaShop,Gift Card,Returning,Weekend,23.13,4,24.87,5.78,MegaShop | Returning Customer | Spent: $23.13
+285,SuperMart,Credit Card,New,Weekday,2.62,2,32.93,1.31,SuperMart | New Customer | Spent: $2.62
+286,DiscountStore,Cash,New,Weekend,3.79,4,38.06,0.95,DiscountStore | New Customer | Spent: $3.79
+287,MegaShop,Gift Card,Returning,Weekday,18.93,3,21.32,6.31,MegaShop | Returning Customer | Spent: $18.93
+288,DiscountStore,Credit Card,Returning,Weekday,29.58,3,28.84,9.86,DiscountStore | Returning Customer | Spent: $29.58
+289,GroceryWorld,Cash,Loyal,Weekday,-2.48,2,29.12,-1.24,GroceryWorld | Loyal Customer | Spent: $-2.48
+290,MegaShop,Cash,New,Weekend,20.0,4,42.4,5.0,MegaShop | New Customer | Spent: $20.0
+291,GroceryWorld,Credit Card,Returning,Weekday,19.74,3,14.01,6.58,GroceryWorld | Returning Customer | Spent: $19.74
+292,SuperMart,Credit Card,Returning,Weekend,38.88,1,29.23,38.88,SuperMart | Returning Customer | Spent: $38.88
+293,SuperMart,Credit Card,Returning,Weekday,21.15,1,58.68,21.15,SuperMart | Returning Customer | Spent: $21.15
+294,MegaShop,Cash,Returning,Weekend,28.83,2,47.46,14.41,MegaShop | Returning Customer | Spent: $28.83
+295,MegaShop,Cash,Returning,Weekend,26.41,2,50.24,13.21,MegaShop | Returning Customer | Spent: $26.41
+296,DiscountStore,Gift Card,Loyal,Weekend,3.69,1,30.37,3.69,DiscountStore | Loyal Customer | Spent: $3.69
+297,DiscountStore,Mobile Payment,New,Weekday,32.68,6,34.81,5.45,DiscountStore | New Customer | Spent: $32.68
+298,GroceryWorld,Credit Card,New,Weekday,27.15,2,45.03,13.58,GroceryWorld | New Customer | Spent: $27.15
+299,MegaShop,Cash,Returning,Weekday,30.08,5,53.4,6.02,MegaShop | Returning Customer | Spent: $30.08
+300,SuperMart,Cash,Returning,Weekend,64.26,7,0.73,9.18,SuperMart | Returning Customer | Spent: $64.26
+301,DiscountStore,Credit Card,New,Weekday,4.16,5,10.27,0.83,DiscountStore | New Customer | Spent: $4.16
+302,DiscountStore,Mobile Payment,New,Weekday,42.25,4,49.64,10.56,DiscountStore | New Customer | Spent: $42.25
+303,SuperMart,Credit Card,New,Weekday,22.13,3,25.85,7.38,SuperMart | New Customer | Spent: $22.13
+304,DiscountStore,Mobile Payment,Loyal,Weekday,27.87,4,19.92,6.97,DiscountStore | Loyal Customer | Spent: $27.87
+305,GroceryWorld,Cash,New,Weekend,24.54,1,11.19,24.54,GroceryWorld | New Customer | Spent: $24.54
+306,MegaShop,Mobile Payment,New,Weekday,20.76,2,21.67,10.38,MegaShop | New Customer | Spent: $20.76
+307,SuperMart,Gift Card,New,Weekend,19.3,4,8.96,4.83,SuperMart | New Customer | Spent: $19.3
+308,MegaShop,Cash,New,Weekday,28.3,1,61.37,28.3,MegaShop | New Customer | Spent: $28.3
+309,DiscountStore,Gift Card,New,Weekday,9.83,4,29.66,2.46,DiscountStore | New Customer | Spent: $9.83
+310,DiscountStore,Credit Card,Returning,Weekday,32.51,6,29.13,5.42,DiscountStore | Returning Customer | Spent: $32.51
+311,SuperMart,Credit Card,New,Weekday,20.84,3,38.82,6.95,SuperMart | New Customer | Spent: $20.84
+312,GroceryWorld,Credit Card,Loyal,Weekday,13.7,1,44.44,13.7,GroceryWorld | Loyal Customer | Spent: $13.7
+313,QuickBuy,Mobile Payment,New,Weekend,20.5,2,44.19,10.25,QuickBuy | New Customer | Spent: $20.5
+314,SuperMart,Cash,Returning,Weekday,37.57,4,46.1,9.39,SuperMart | Returning Customer | Spent: $37.57
+315,QuickBuy,Credit Card,Loyal,Weekend,19.65,3,20.54,6.55,QuickBuy | Loyal Customer | Spent: $19.65
+316,QuickBuy,Credit Card,Returning,Weekday,28.58,1,25.53,28.58,QuickBuy | Returning Customer | Spent: $28.58
+317,GroceryWorld,Cash,Returning,Weekday,17.69,7,41.54,2.53,GroceryWorld | Returning Customer | Spent: $17.69
+318,QuickBuy,Credit Card,New,Weekend,32.58,2,22.09,16.29,QuickBuy | New Customer | Spent: $32.58
+319,QuickBuy,Gift Card,New,Weekday,31.86,5,29.92,6.37,QuickBuy | New Customer | Spent: $31.86
+320,GroceryWorld,Cash,Returning,Weekday,43.49,6,35.98,7.25,GroceryWorld | Returning Customer | Spent: $43.49
+321,QuickBuy,Cash,Loyal,Weekday,23.24,1,41.78,23.24,QuickBuy | Loyal Customer | Spent: $23.24
+322,QuickBuy,Cash,Returning,Weekday,31.69,0,3.33,0.0,QuickBuy | Returning Customer | Spent: $31.69
+323,QuickBuy,Gift Card,Returning,Weekend,25.98,2,40.72,12.99,QuickBuy | Returning Customer | Spent: $25.98
+324,SuperMart,Cash,Returning,Weekday,37.96,3,26.49,12.65,SuperMart | Returning Customer | Spent: $37.96
+325,SuperMart,Gift Card,Returning,Weekend,17.81,5,40.61,3.56,SuperMart | Returning Customer | Spent: $17.81
+326,SuperMart,Cash,New,Weekend,32.45,0,41.65,0.0,SuperMart | New Customer | Spent: $32.45
+327,GroceryWorld,Mobile Payment,Returning,Weekday,23.05,0,54.12,0.0,GroceryWorld | Returning Customer | Spent: $23.05
+328,DiscountStore,Credit Card,Loyal,Weekend,24.36,3,50.3,8.12,DiscountStore | Loyal Customer | Spent: $24.36
+329,QuickBuy,Mobile Payment,New,Weekday,25.92,4,50.2,6.48,QuickBuy | New Customer | Spent: $25.92
+330,QuickBuy,Credit Card,Returning,Weekend,27.52,3,51.66,9.17,QuickBuy | Returning Customer | Spent: $27.52
+331,GroceryWorld,Gift Card,New,Weekday,23.84,4,34.37,5.96,GroceryWorld | New Customer | Spent: $23.84
+332,QuickBuy,Mobile Payment,Returning,Weekend,27.15,3,30.48,9.05,QuickBuy | Returning Customer | Spent: $27.15
+333,SuperMart,Cash,New,Weekday,40.78,5,43.09,8.16,SuperMart | New Customer | Spent: $40.78
+334,DiscountStore,Credit Card,Returning,Weekday,34.85,6,40.98,5.81,DiscountStore | Returning Customer | Spent: $34.85
+335,MegaShop,Credit Card,Returning,Weekend,33.69,3,25.36,11.23,MegaShop | Returning Customer | Spent: $33.69
+336,QuickBuy,Mobile Payment,New,Weekend,20.44,4,36.07,5.11,QuickBuy | New Customer | Spent: $20.44
+337,SuperMart,Gift Card,Returning,Weekday,16.11,1,29.47,16.11,SuperMart | Returning Customer | Spent: $16.11
+338,MegaShop,Mobile Payment,Returning,Weekday,34.55,3,17.19,11.52,MegaShop | Returning Customer | Spent: $34.55
+339,DiscountStore,Gift Card,Loyal,Weekend,33.76,3,49.36,11.25,DiscountStore | Loyal Customer | Spent: $33.76
+340,MegaShop,Gift Card,New,Weekend,39.73,2,30.83,19.86,MegaShop | New Customer | Spent: $39.73
+341,SuperMart,Credit Card,New,Weekend,18.96,4,60.73,4.74,SuperMart | New Customer | Spent: $18.96
+342,MegaShop,Mobile Payment,New,Weekend,22.7,3,5.62,7.57,MegaShop | New Customer | Spent: $22.7
+343,GroceryWorld,Mobile Payment,Loyal,Weekend,8.61,5,21.65,1.72,GroceryWorld | Loyal Customer | Spent: $8.61
+344,MegaShop,Gift Card,Loyal,Weekend,21.08,3,30.49,7.03,MegaShop | Loyal Customer | Spent: $21.08
+345,QuickBuy,Mobile Payment,Returning,Weekday,34.97,3,47.06,11.66,QuickBuy | Returning Customer | Spent: $34.97
+346,QuickBuy,Cash,Loyal,Weekday,20.34,2,35.99,10.17,QuickBuy | Loyal Customer | Spent: $20.34
+347,GroceryWorld,Cash,Returning,Weekend,31.4,0,34.66,0.0,GroceryWorld | Returning Customer | Spent: $31.4
+348,SuperMart,Mobile Payment,Returning,Weekend,23.09,4,13.09,5.77,SuperMart | Returning Customer | Spent: $23.09
+349,QuickBuy,Mobile Payment,New,Weekday,28.24,3,12.65,9.41,QuickBuy | New Customer | Spent: $28.24
+350,DiscountStore,Gift Card,Returning,Weekday,13.52,2,34.84,6.76,DiscountStore | Returning Customer | Spent: $13.52
+351,QuickBuy,Cash,New,Weekend,25.85,4,9.54,6.46,QuickBuy | New Customer | Spent: $25.85
+352,QuickBuy,Cash,Loyal,Weekday,-4.91,6,22.02,-0.82,QuickBuy | Loyal Customer | Spent: $-4.91
+353,SuperMart,Credit Card,Returning,Weekday,23.13,4,37.51,5.78,SuperMart | Returning Customer | Spent: $23.13
+354,MegaShop,Gift Card,Returning,Weekday,8.7,4,15.27,2.17,MegaShop | Returning Customer | Spent: $8.7
+355,QuickBuy,Credit Card,New,Weekday,37.06,2,54.08,18.53,QuickBuy | New Customer | Spent: $37.06
+356,GroceryWorld,Cash,New,Weekday,32.77,1,48.36,32.77,GroceryWorld | New Customer | Spent: $32.77
+357,MegaShop,Gift Card,New,Weekday,29.67,1,6.43,29.67,MegaShop | New Customer | Spent: $29.67
+358,DiscountStore,Mobile Payment,New,Weekday,40.21,1,16.01,40.21,DiscountStore | New Customer | Spent: $40.21
+359,SuperMart,Gift Card,New,Weekend,15.51,4,-4.29,3.88,SuperMart | New Customer | Spent: $15.51
+360,DiscountStore,Mobile Payment,Loyal,Weekday,42.47,3,18.26,14.16,DiscountStore | Loyal Customer | Spent: $42.47
+361,MegaShop,Mobile Payment,Returning,Weekend,34.32,4,41.5,8.58,MegaShop | Returning Customer | Spent: $34.32
+362,MegaShop,Gift Card,New,Weekend,22.63,4,23.79,5.66,MegaShop | New Customer | Spent: $22.63
+363,MegaShop,Mobile Payment,New,Weekday,36.36,2,36.91,18.18,MegaShop | New Customer | Spent: $36.36
+364,DiscountStore,Credit Card,Returning,Weekend,13.94,6,7.16,2.32,DiscountStore | Returning Customer | Spent: $13.94
+365,MegaShop,Cash,Returning,Weekday,16.75,3,41.97,5.58,MegaShop | Returning Customer | Spent: $16.75
+366,DiscountStore,Mobile Payment,Returning,Weekend,18.91,1,21.67,18.91,DiscountStore | Returning Customer | Spent: $18.91
+367,MegaShop,Credit Card,Loyal,Weekday,19.71,3,30.18,6.57,MegaShop | Loyal Customer | Spent: $19.71
+368,GroceryWorld,Mobile Payment,Returning,Weekend,14.43,2,28.61,7.22,GroceryWorld | Returning Customer | Spent: $14.43
+369,MegaShop,Cash,Loyal,Weekend,37.23,2,10.93,18.62,MegaShop | Loyal Customer | Spent: $37.23
+370,DiscountStore,Credit Card,Loyal,Weekday,22.41,3,12.7,7.47,DiscountStore | Loyal Customer | Spent: $22.41
+371,QuickBuy,Cash,New,Weekday,28.53,3,44.52,9.51,QuickBuy | New Customer | Spent: $28.53
+372,MegaShop,Cash,Loyal,Weekend,19.3,3,35.98,6.43,MegaShop | Loyal Customer | Spent: $19.3
+373,QuickBuy,Credit Card,New,Weekend,6.79,3,45.75,2.26,QuickBuy | New Customer | Spent: $6.79
+374,GroceryWorld,Credit Card,Loyal,Weekday,27.7,6,34.87,4.62,GroceryWorld | Loyal Customer | Spent: $27.7
+375,SuperMart,Credit Card,New,Weekend,5.88,6,32.14,0.98,SuperMart | New Customer | Spent: $5.88
+376,GroceryWorld,Gift Card,Loyal,Weekday,24.31,3,4.11,8.1,GroceryWorld | Loyal Customer | Spent: $24.31
+377,MegaShop,Credit Card,Loyal,Weekend,11.32,3,25.94,3.77,MegaShop | Loyal Customer | Spent: $11.32
+378,QuickBuy,Credit Card,Loyal,Weekday,44.87,3,29.59,14.96,QuickBuy | Loyal Customer | Spent: $44.87
+379,QuickBuy,Credit Card,Returning,Weekend,34.11,2,59.3,17.06,QuickBuy | Returning Customer | Spent: $34.11
+380,DiscountStore,Credit Card,New,Weekday,26.06,3,40.3,8.69,DiscountStore | New Customer | Spent: $26.06
+381,QuickBuy,Mobile Payment,New,Weekday,37.64,3,53.04,12.55,QuickBuy | New Customer | Spent: $37.64
+382,DiscountStore,Gift Card,Returning,Weekday,16.54,3,38.96,5.51,DiscountStore | Returning Customer | Spent: $16.54
+383,SuperMart,Cash,New,Weekday,30.43,1,19.33,30.43,SuperMart | New Customer | Spent: $30.43
+384,MegaShop,Credit Card,Returning,Weekday,27.0,4,31.76,6.75,MegaShop | Returning Customer | Spent: $27.0
+385,DiscountStore,Mobile Payment,New,Weekday,27.64,1,33.54,27.64,DiscountStore | New Customer | Spent: $27.64
+386,SuperMart,Mobile Payment,Loyal,Weekend,37.72,4,15.91,9.43,SuperMart | Loyal Customer | Spent: $37.72
+387,QuickBuy,Mobile Payment,Returning,Weekday,32.32,2,24.23,16.16,QuickBuy | Returning Customer | Spent: $32.32
+388,QuickBuy,Cash,Loyal,Weekday,27.89,2,26.91,13.94,QuickBuy | Loyal Customer | Spent: $27.89
+389,SuperMart,Credit Card,New,Weekday,8.45,5,54.08,1.69,SuperMart | New Customer | Spent: $8.45
+390,QuickBuy,Gift Card,Loyal,Weekday,15.4,4,-1.21,3.85,QuickBuy | Loyal Customer | Spent: $15.4
+391,SuperMart,Gift Card,Loyal,Weekday,23.77,1,48.09,23.77,SuperMart | Loyal Customer | Spent: $23.77
+392,DiscountStore,Mobile Payment,Returning,Weekday,25.93,1,15.95,25.93,DiscountStore | Returning Customer | Spent: $25.93
+393,DiscountStore,Cash,Returning,Weekday,13.7,5,9.42,2.74,DiscountStore | Returning Customer | Spent: $13.7
+394,SuperMart,Cash,Returning,Weekday,49.12,3,47.7,16.37,SuperMart | Returning Customer | Spent: $49.12
+395,DiscountStore,Cash,New,Weekday,40.16,1,40.98,40.16,DiscountStore | New Customer | Spent: $40.16
+396,DiscountStore,Gift Card,Returning,Weekday,31.02,1,48.82,31.02,DiscountStore | Returning Customer | Spent: $31.02
+397,DiscountStore,Mobile Payment,New,Weekday,25.72,5,42.01,5.14,DiscountStore | New Customer | Spent: $25.72
+398,GroceryWorld,Credit Card,New,Weekday,22.88,4,60.9,5.72,GroceryWorld | New Customer | Spent: $22.88
+399,MegaShop,Gift Card,New,Weekend,15.48,4,38.38,3.87,MegaShop | New Customer | Spent: $15.48
+400,QuickBuy,Mobile Payment,New,Weekday,25.77,1,27.65,25.77,QuickBuy | New Customer | Spent: $25.77
+401,GroceryWorld,Mobile Payment,New,Weekend,27.58,0,35.14,0.0,GroceryWorld | New Customer | Spent: $27.58
+402,DiscountStore,Credit Card,New,Weekday,12.58,4,48.65,3.15,DiscountStore | New Customer | Spent: $12.58
+403,SuperMart,Credit Card,Loyal,Weekend,28.34,2,18.31,14.17,SuperMart | Loyal Customer | Spent: $28.34
+404,DiscountStore,Credit Card,Returning,Weekend,23.45,4,20.22,5.86,DiscountStore | Returning Customer | Spent: $23.45
+405,MegaShop,Cash,Loyal,Weekday,5.92,1,25.37,5.92,MegaShop | Loyal Customer | Spent: $5.92
+406,DiscountStore,Credit Card,Returning,Weekend,16.4,1,-1.57,16.4,DiscountStore | Returning Customer | Spent: $16.4
+407,SuperMart,Mobile Payment,New,Weekday,20.86,4,32.07,5.22,SuperMart | New Customer | Spent: $20.86
+408,MegaShop,Credit Card,Returning,Weekday,43.88,2,1.71,21.94,MegaShop | Returning Customer | Spent: $43.88
+409,DiscountStore,Mobile Payment,Returning,Weekend,30.57,1,30.8,30.57,DiscountStore | Returning Customer | Spent: $30.57
+410,MegaShop,Gift Card,New,Weekend,11.65,1,42.98,11.65,MegaShop | New Customer | Spent: $11.65
+411,QuickBuy,Cash,Returning,Weekday,29.86,3,22.85,9.95,QuickBuy | Returning Customer | Spent: $29.86
+412,QuickBuy,Gift Card,New,Weekday,9.53,4,55.16,2.38,QuickBuy | New Customer | Spent: $9.53
+413,DiscountStore,Gift Card,Returning,Weekday,35.83,2,8.09,17.91,DiscountStore | Returning Customer | Spent: $35.83
+414,MegaShop,Mobile Payment,Returning,Weekday,20.29,2,47.87,10.14,MegaShop | Returning Customer | Spent: $20.29
+415,SuperMart,Gift Card,New,Weekend,24.06,4,40.13,6.02,SuperMart | New Customer | Spent: $24.06
+416,DiscountStore,Mobile Payment,New,Weekday,38.26,3,4.26,12.75,DiscountStore | New Customer | Spent: $38.26
+417,QuickBuy,Credit Card,Returning,Weekday,12.13,1,70.66,12.13,QuickBuy | Returning Customer | Spent: $12.13
+418,QuickBuy,Credit Card,Returning,Weekday,11.03,1,29.04,11.03,QuickBuy | Returning Customer | Spent: $11.03
+419,DiscountStore,Mobile Payment,New,Weekday,19.16,3,16.84,6.39,DiscountStore | New Customer | Spent: $19.16
+420,MegaShop,Credit Card,Loyal,Weekday,35.38,2,8.89,17.69,MegaShop | Loyal Customer | Spent: $35.38
+421,QuickBuy,Cash,New,Weekend,9.81,3,26.7,3.27,QuickBuy | New Customer | Spent: $9.81
+422,MegaShop,Gift Card,Returning,Weekend,-3.32,2,28.09,-1.66,MegaShop | Returning Customer | Spent: $-3.32
+423,QuickBuy,Cash,Loyal,Weekend,20.49,6,31.54,3.41,QuickBuy | Loyal Customer | Spent: $20.49
+424,QuickBuy,Gift Card,New,Weekday,30.52,7,25.53,4.36,QuickBuy | New Customer | Spent: $30.52
+425,GroceryWorld,Credit Card,New,Weekend,37.0,4,39.5,9.25,GroceryWorld | New Customer | Spent: $37.0
+426,QuickBuy,Cash,New,Weekend,20.37,2,24.19,10.18,QuickBuy | New Customer | Spent: $20.37
+427,SuperMart,Credit Card,New,Weekend,20.89,2,0.98,10.44,SuperMart | New Customer | Spent: $20.89
+428,DiscountStore,Gift Card,New,Weekday,36.54,0,27.76,0.0,DiscountStore | New Customer | Spent: $36.54
+429,DiscountStore,Mobile Payment,Returning,Weekday,6.3,5,-5.51,1.26,DiscountStore | Returning Customer | Spent: $6.3
+430,MegaShop,Mobile Payment,New,Weekday,21.11,2,35.31,10.56,MegaShop | New Customer | Spent: $21.11
+431,QuickBuy,Cash,Returning,Weekday,26.9,4,15.31,6.73,QuickBuy | Returning Customer | Spent: $26.9
+432,SuperMart,Credit Card,Loyal,Weekday,29.49,4,32.45,7.37,SuperMart | Loyal Customer | Spent: $29.49
+433,MegaShop,Credit Card,Loyal,Weekday,19.9,4,49.71,4.98,MegaShop | Loyal Customer | Spent: $19.9
+434,GroceryWorld,Cash,Returning,Weekday,25.34,5,15.77,5.07,GroceryWorld | Returning Customer | Spent: $25.34
+435,MegaShop,Mobile Payment,New,Weekend,0.12,3,45.92,0.04,MegaShop | New Customer | Spent: $0.12
+436,MegaShop,Gift Card,Returning,Weekday,18.42,3,23.5,6.14,MegaShop | Returning Customer | Spent: $18.42
+437,QuickBuy,Cash,Returning,Weekday,29.54,5,56.3,5.91,QuickBuy | Returning Customer | Spent: $29.54
+438,GroceryWorld,Gift Card,Returning,Weekend,15.18,4,24.52,3.79,GroceryWorld | Returning Customer | Spent: $15.18
+439,MegaShop,Mobile Payment,New,Weekend,25.59,3,17.39,8.53,MegaShop | New Customer | Spent: $25.59
+440,SuperMart,Credit Card,Loyal,Weekend,29.47,4,40.31,7.37,SuperMart | Loyal Customer | Spent: $29.47
+441,SuperMart,Mobile Payment,Returning,Weekend,21.57,3,23.46,7.19,SuperMart | Returning Customer | Spent: $21.57
+442,DiscountStore,Cash,New,Weekday,26.7,3,17.38,8.9,DiscountStore | New Customer | Spent: $26.7
+443,GroceryWorld,Credit Card,New,Weekend,15.37,4,22.83,3.84,GroceryWorld | New Customer | Spent: $15.37
+444,GroceryWorld,Cash,Returning,Weekday,22.93,3,29.33,7.64,GroceryWorld | Returning Customer | Spent: $22.93
+445,DiscountStore,Cash,Loyal,Weekday,31.1,1,50.13,31.1,DiscountStore | Loyal Customer | Spent: $31.1
+446,MegaShop,Mobile Payment,Returning,Weekday,26.57,3,0.99,8.86,MegaShop | Returning Customer | Spent: $26.57
+447,GroceryWorld,Cash,Returning,Weekday,19.13,2,30.35,9.57,GroceryWorld | Returning Customer | Spent: $19.13
+448,SuperMart,Mobile Payment,New,Weekday,27.24,2,39.37,13.62,SuperMart | New Customer | Spent: $27.24
+449,SuperMart,Credit Card,Returning,Weekend,32.15,4,32.9,8.04,SuperMart | Returning Customer | Spent: $32.15
+450,QuickBuy,Mobile Payment,Returning,Weekend,4.5,4,49.65,1.13,QuickBuy | Returning Customer | Spent: $4.5
+451,GroceryWorld,Credit Card,New,Weekday,36.59,1,28.88,36.59,GroceryWorld | New Customer | Spent: $36.59
+452,MegaShop,Mobile Payment,New,Weekday,21.64,7,27.23,3.09,MegaShop | New Customer | Spent: $21.64
+453,DiscountStore,Gift Card,Returning,Weekend,29.25,3,38.88,9.75,DiscountStore | Returning Customer | Spent: $29.25
+454,DiscountStore,Gift Card,New,Weekend,36.97,2,31.49,18.49,DiscountStore | New Customer | Spent: $36.97
+455,MegaShop,Cash,Returning,Weekday,11.28,6,24.14,1.88,MegaShop | Returning Customer | Spent: $11.28
+456,QuickBuy,Mobile Payment,New,Weekend,17.91,0,37.74,0.0,QuickBuy | New Customer | Spent: $17.91
+457,DiscountStore,Mobile Payment,New,Weekday,22.11,6,20.21,3.69,DiscountStore | New Customer | Spent: $22.11
+458,GroceryWorld,Credit Card,New,Weekday,17.16,3,20.83,5.72,GroceryWorld | New Customer | Spent: $17.16
+459,QuickBuy,Cash,Loyal,Weekend,42.35,3,22.08,14.12,QuickBuy | Loyal Customer | Spent: $42.35
+460,GroceryWorld,Mobile Payment,Loyal,Weekday,16.43,5,50.3,3.29,GroceryWorld | Loyal Customer | Spent: $16.43
+461,SuperMart,Cash,Loyal,Weekday,19.44,5,-18.32,3.89,SuperMart | Loyal Customer | Spent: $19.44
+462,QuickBuy,Gift Card,Returning,Weekend,27.04,2,35.93,13.52,QuickBuy | Returning Customer | Spent: $27.04
+463,DiscountStore,Mobile Payment,New,Weekend,12.98,4,30.51,3.24,DiscountStore | New Customer | Spent: $12.98
+464,QuickBuy,Mobile Payment,Returning,Weekday,21.04,3,4.79,7.01,QuickBuy | Returning Customer | Spent: $21.04
+465,QuickBuy,Cash,Returning,Weekday,28.17,6,34.65,4.7,QuickBuy | Returning Customer | Spent: $28.17
+466,QuickBuy,Mobile Payment,Loyal,Weekday,21.67,1,37.14,21.67,QuickBuy | Loyal Customer | Spent: $21.67
+467,QuickBuy,Cash,New,Weekend,24.07,3,38.84,8.02,QuickBuy | New Customer | Spent: $24.07
+468,GroceryWorld,Mobile Payment,Returning,Weekday,19.71,5,-9.78,3.94,GroceryWorld | Returning Customer | Spent: $19.71
+469,SuperMart,Credit Card,New,Weekday,9.86,3,50.5,3.29,SuperMart | New Customer | Spent: $9.86
+470,MegaShop,Cash,New,Weekend,28.22,2,18.93,14.11,MegaShop | New Customer | Spent: $28.22
+471,QuickBuy,Mobile Payment,Returning,Weekday,42.55,0,40.3,0.0,QuickBuy | Returning Customer | Spent: $42.55
+472,DiscountStore,Gift Card,Returning,Weekday,25.18,1,41.12,25.18,DiscountStore | Returning Customer | Spent: $25.18
+473,QuickBuy,Mobile Payment,New,Weekday,27.25,4,16.85,6.81,QuickBuy | New Customer | Spent: $27.25
+474,DiscountStore,Gift Card,New,Weekend,31.93,6,39.91,5.32,DiscountStore | New Customer | Spent: $31.93
+475,GroceryWorld,Gift Card,Returning,Weekday,12.31,2,24.22,6.15,GroceryWorld | Returning Customer | Spent: $12.31
+476,DiscountStore,Credit Card,Returning,Weekday,42.03,4,-1.07,10.51,DiscountStore | Returning Customer | Spent: $42.03
+477,MegaShop,Cash,Loyal,Weekend,27.02,1,47.52,27.02,MegaShop | Loyal Customer | Spent: $27.02
+478,SuperMart,Mobile Payment,Loyal,Weekday,41.32,1,18.37,41.32,SuperMart | Loyal Customer | Spent: $41.32
+479,DiscountStore,Credit Card,Returning,Weekday,17.67,9,17.18,1.96,DiscountStore | Returning Customer | Spent: $17.67
+480,DiscountStore,Mobile Payment,New,Weekday,43.18,2,23.95,21.59,DiscountStore | New Customer | Spent: $43.18
+481,SuperMart,Gift Card,Returning,Weekday,32.75,2,34.08,16.38,SuperMart | Returning Customer | Spent: $32.75
+482,MegaShop,Cash,Returning,Weekday,30.53,3,29.14,10.18,MegaShop | Returning Customer | Spent: $30.53
+483,QuickBuy,Mobile Payment,New,Weekday,27.34,4,38.22,6.84,QuickBuy | New Customer | Spent: $27.34
+484,DiscountStore,Mobile Payment,Loyal,Weekday,22.51,2,9.91,11.26,DiscountStore | Loyal Customer | Spent: $22.51
+485,SuperMart,Gift Card,New,Weekday,37.01,1,18.86,37.01,SuperMart | New Customer | Spent: $37.01
+486,GroceryWorld,Mobile Payment,Loyal,Weekend,26.4,2,28.26,13.2,GroceryWorld | Loyal Customer | Spent: $26.4
+487,SuperMart,Mobile Payment,Returning,Weekend,5.33,1,58.47,5.33,SuperMart | Returning Customer | Spent: $5.33
+488,GroceryWorld,Gift Card,Returning,Weekend,13.83,0,28.29,0.0,GroceryWorld | Returning Customer | Spent: $13.83
+489,MegaShop,Credit Card,Returning,Weekend,23.14,3,46.28,7.71,MegaShop | Returning Customer | Spent: $23.14
+490,QuickBuy,Gift Card,Loyal,Weekday,28.1,2,30.58,14.05,QuickBuy | Loyal Customer | Spent: $28.1
+491,SuperMart,Credit Card,Returning,Weekend,24.43,6,22.75,4.07,SuperMart | Returning Customer | Spent: $24.43
+492,DiscountStore,Cash,Returning,Weekday,37.19,2,26.3,18.59,DiscountStore | Returning Customer | Spent: $37.19
+493,MegaShop,Credit Card,New,Weekend,5.49,2,27.47,2.74,MegaShop | New Customer | Spent: $5.49
+494,SuperMart,Credit Card,Returning,Weekend,26.44,2,39.05,13.22,SuperMart | Returning Customer | Spent: $26.44
+495,DiscountStore,Cash,New,Weekend,6.82,6,50.62,1.14,DiscountStore | New Customer | Spent: $6.82
+496,SuperMart,Credit Card,Returning,Weekend,32.6,1,35.4,32.6,SuperMart | Returning Customer | Spent: $32.6
+497,GroceryWorld,Gift Card,Returning,Weekday,24.06,4,47.81,6.01,GroceryWorld | Returning Customer | Spent: $24.06
+498,SuperMart,Credit Card,Returning,Weekday,29.2,4,15.53,7.3,SuperMart | Returning Customer | Spent: $29.2
+499,SuperMart,Cash,New,Weekday,16.36,2,23.78,8.18,SuperMart | New Customer | Spent: $16.36
+500,SuperMart,Gift Card,New,Weekday,37.79,3,19.14,12.6,SuperMart | New Customer | Spent: $37.79
+501,MegaShop,Cash,Returning,Weekday,131.25,0,34.72,0.0,MegaShop | Returning Customer | Spent: $131.25
+502,SuperMart,Cash,New,Weekend,117.51,3,24.62,39.17,SuperMart | New Customer | Spent: $117.51
+503,DiscountStore,Mobile Payment,New,Weekend,96.11,4,40.95,24.03,DiscountStore | New Customer | Spent: $96.11
+504,GroceryWorld,Mobile Payment,New,Weekday,117.4,2,16.03,58.7,GroceryWorld | New Customer | Spent: $117.4
+505,GroceryWorld,Cash,Loyal,Weekend,78.79,4,30.65,19.7,GroceryWorld | Loyal Customer | Spent: $78.79
+506,SuperMart,Cash,Returning,Weekend,125.67,0,40.3,0.0,SuperMart | Returning Customer | Spent: $125.67
+507,MegaShop,Cash,New,Weekend,149.48,2,-0.98,74.74,MegaShop | New Customer | Spent: $149.48
+508,MegaShop,Mobile Payment,New,Weekend,132.12,4,61.82,33.03,MegaShop | New Customer | Spent: $132.12
+509,DiscountStore,Mobile Payment,New,Weekday,78.11,4,25.75,19.53,DiscountStore | New Customer | Spent: $78.11
+510,SuperMart,Credit Card,Returning,Weekend,110.84,2,-0.38,55.42,SuperMart | Returning Customer | Spent: $110.84
+511,GroceryWorld,Credit Card,Returning,Weekend,61.21,3,32.37,20.4,GroceryWorld | Returning Customer | Spent: $61.21
+512,MegaShop,Cash,New,Weekday,117.17,4,30.5,29.29,MegaShop | New Customer | Spent: $117.17
+513,SuperMart,Gift Card,New,Weekday,113.52,4,28.77,28.38,SuperMart | New Customer | Spent: $113.52
+514,MegaShop,Gift Card,New,Weekend,43.91,3,44.87,14.64,MegaShop | New Customer | Spent: $43.91
+515,MegaShop,Mobile Payment,Returning,Weekday,65.15,3,41.21,21.72,MegaShop | Returning Customer | Spent: $65.15
+516,GroceryWorld,Mobile Payment,Returning,Weekend,91.51,3,34.47,30.5,GroceryWorld | Returning Customer | Spent: $91.51
+517,QuickBuy,Mobile Payment,New,Weekend,90.97,2,36.75,45.49,QuickBuy | New Customer | Spent: $90.97
+518,DiscountStore,Cash,New,Weekday,63.72,3,28.43,21.24,DiscountStore | New Customer | Spent: $63.72
+519,DiscountStore,Gift Card,New,Weekday,111.67,4,56.63,27.92,DiscountStore | New Customer | Spent: $111.67
+520,GroceryWorld,Credit Card,Loyal,Weekend,107.54,5,7.81,21.51,GroceryWorld | Loyal Customer | Spent: $107.54
+521,MegaShop,Cash,New,Weekday,94.17,5,32.09,18.83,MegaShop | New Customer | Spent: $94.17
+522,SuperMart,Credit Card,Returning,Weekday,77.33,1,30.98,77.33,SuperMart | Returning Customer | Spent: $77.33
+523,MegaShop,Credit Card,Returning,Weekday,131.46,5,42.2,26.29,MegaShop | Returning Customer | Spent: $131.46
+524,GroceryWorld,Cash,New,Weekday,149.66,4,17.34,37.42,GroceryWorld | New Customer | Spent: $149.66
+525,DiscountStore,Credit Card,New,Weekend,85.49,2,3.84,42.75,DiscountStore | New Customer | Spent: $85.49
+526,MegaShop,Gift Card,New,Weekday,81.63,2,32.35,40.82,MegaShop | New Customer | Spent: $81.63
+527,DiscountStore,Credit Card,Returning,Weekend,114.74,1,34.22,114.74,DiscountStore | Returning Customer | Spent: $114.74
+528,SuperMart,Gift Card,Returning,Weekday,89.26,3,52.34,29.75,SuperMart | Returning Customer | Spent: $89.26
+529,DiscountStore,Gift Card,Returning,Weekday,95.82,5,10.94,19.16,DiscountStore | Returning Customer | Spent: $95.82
+530,DiscountStore,Gift Card,Returning,Weekend,122.19,1,47.32,122.19,DiscountStore | Returning Customer | Spent: $122.19
+531,QuickBuy,Mobile Payment,New,Weekend,42.72,2,65.51,21.36,QuickBuy | New Customer | Spent: $42.72
+532,QuickBuy,Credit Card,Loyal,Weekday,139.55,3,24.33,46.52,QuickBuy | Loyal Customer | Spent: $139.55
+533,QuickBuy,Cash,Returning,Weekday,102.18,3,10.64,34.06,QuickBuy | Returning Customer | Spent: $102.18
+534,DiscountStore,Cash,New,Weekday,87.66,3,23.9,29.22,DiscountStore | New Customer | Spent: $87.66
+535,GroceryWorld,Credit Card,Loyal,Weekday,97.32,3,30.21,32.44,GroceryWorld | Loyal Customer | Spent: $97.32
+536,DiscountStore,Mobile Payment,Returning,Weekend,98.87,5,38.46,19.77,DiscountStore | Returning Customer | Spent: $98.87
+537,GroceryWorld,Mobile Payment,Returning,Weekday,48.06,4,21.13,12.02,GroceryWorld | Returning Customer | Spent: $48.06
+538,GroceryWorld,Gift Card,Returning,Weekday,144.85,3,53.33,48.28,GroceryWorld | Returning Customer | Spent: $144.85
+539,QuickBuy,Credit Card,Loyal,Weekday,101.24,5,13.28,20.25,QuickBuy | Loyal Customer | Spent: $101.24
+540,MegaShop,Credit Card,Returning,Weekend,113.29,4,3.91,28.32,MegaShop | Returning Customer | Spent: $113.29
+541,SuperMart,Cash,New,Weekend,128.55,1,46.6,128.55,SuperMart | New Customer | Spent: $128.55
+542,QuickBuy,Credit Card,New,Weekday,69.37,3,-4.12,23.12,QuickBuy | New Customer | Spent: $69.37
+543,QuickBuy,Mobile Payment,Loyal,Weekend,114.2,3,26.94,38.07,QuickBuy | Loyal Customer | Spent: $114.2
+544,MegaShop,Credit Card,New,Weekday,91.97,1,76.77,91.97,MegaShop | New Customer | Spent: $91.97
+545,SuperMart,Cash,New,Weekday,125.4,5,29.82,25.08,SuperMart | New Customer | Spent: $125.4
+546,DiscountStore,Gift Card,Returning,Weekend,36.18,3,13.19,12.06,DiscountStore | Returning Customer | Spent: $36.18
+547,DiscountStore,Cash,Returning,Weekend,97.03,2,29.14,48.51,DiscountStore | Returning Customer | Spent: $97.03
+548,QuickBuy,Cash,Returning,Weekend,81.92,3,29.24,27.31,QuickBuy | Returning Customer | Spent: $81.92
+549,SuperMart,Gift Card,Loyal,Weekday,112.97,3,32.41,37.66,SuperMart | Loyal Customer | Spent: $112.97
+550,QuickBuy,Cash,New,Weekday,114.1,3,39.93,38.03,QuickBuy | New Customer | Spent: $114.1
+551,GroceryWorld,Cash,New,Weekend,78.77,1,14.41,78.77,GroceryWorld | New Customer | Spent: $78.77
+552,QuickBuy,Credit Card,New,Weekday,78.63,5,55.31,15.73,QuickBuy | New Customer | Spent: $78.63
+553,QuickBuy,Credit Card,Loyal,Weekday,96.68,1,33.68,96.68,QuickBuy | Loyal Customer | Spent: $96.68
+554,DiscountStore,Gift Card,Returning,Weekday,73.1,4,40.9,18.28,DiscountStore | Returning Customer | Spent: $73.1
+555,DiscountStore,Credit Card,New,Weekend,125.26,2,20.58,62.63,DiscountStore | New Customer | Spent: $125.26
+556,DiscountStore,Credit Card,Loyal,Weekday,88.92,3,49.3,29.64,DiscountStore | Loyal Customer | Spent: $88.92
+557,GroceryWorld,Cash,Loyal,Weekday,12.79,4,26.14,3.2,GroceryWorld | Loyal Customer | Spent: $12.79
+558,DiscountStore,Mobile Payment,Loyal,Weekend,88.76,3,34.16,29.59,DiscountStore | Loyal Customer | Spent: $88.76
+559,SuperMart,Credit Card,Loyal,Weekday,68.84,8,16.0,8.61,SuperMart | Loyal Customer | Spent: $68.84
+560,MegaShop,Mobile Payment,New,Weekday,51.06,2,15.05,25.53,MegaShop | New Customer | Spent: $51.06
+561,SuperMart,Credit Card,Returning,Weekday,62.88,2,40.32,31.44,SuperMart | Returning Customer | Spent: $62.88
+562,SuperMart,Credit Card,Returning,Weekday,103.28,1,23.35,103.28,SuperMart | Returning Customer | Spent: $103.28
+563,DiscountStore,Gift Card,Loyal,Weekday,139.86,1,17.19,139.86,DiscountStore | Loyal Customer | Spent: $139.86
+564,MegaShop,Gift Card,Returning,Weekday,109.4,5,20.35,21.88,MegaShop | Returning Customer | Spent: $109.4
+565,MegaShop,Gift Card,Returning,Weekend,81.8,2,40.48,40.9,MegaShop | Returning Customer | Spent: $81.8
+566,MegaShop,Mobile Payment,Returning,Weekday,113.68,0,20.56,0.0,MegaShop | Returning Customer | Spent: $113.68
+567,GroceryWorld,Cash,New,Weekend,86.23,2,28.24,43.11,GroceryWorld | New Customer | Spent: $86.23
+568,DiscountStore,Credit Card,Returning,Weekday,79.16,5,30.23,15.83,DiscountStore | Returning Customer | Spent: $79.16
+569,MegaShop,Credit Card,Loyal,Weekday,65.37,4,1.24,16.34,MegaShop | Loyal Customer | Spent: $65.37
+570,GroceryWorld,Credit Card,Loyal,Weekday,47.45,4,7.93,11.86,GroceryWorld | Loyal Customer | Spent: $47.45
+571,QuickBuy,Mobile Payment,New,Weekday,88.3,4,35.04,22.08,QuickBuy | New Customer | Spent: $88.3
+572,QuickBuy,Gift Card,New,Weekend,104.74,4,18.94,26.19,QuickBuy | New Customer | Spent: $104.74
+573,GroceryWorld,Cash,New,Weekday,97.1,1,45.85,97.1,GroceryWorld | New Customer | Spent: $97.1
+574,GroceryWorld,Mobile Payment,Returning,Weekday,87.52,3,44.5,29.17,GroceryWorld | Returning Customer | Spent: $87.52
+575,DiscountStore,Gift Card,Loyal,Weekend,71.63,1,40.79,71.63,DiscountStore | Loyal Customer | Spent: $71.63
+576,DiscountStore,Mobile Payment,New,Weekend,118.25,4,57.3,29.56,DiscountStore | New Customer | Spent: $118.25
+577,QuickBuy,Cash,Returning,Weekend,60.49,4,28.75,15.12,QuickBuy | Returning Customer | Spent: $60.49
+578,MegaShop,Gift Card,Loyal,Weekday,123.28,3,39.73,41.09,MegaShop | Loyal Customer | Spent: $123.28
+579,QuickBuy,Mobile Payment,Returning,Weekend,69.93,3,21.23,23.31,QuickBuy | Returning Customer | Spent: $69.93
+580,MegaShop,Cash,Returning,Weekday,77.43,3,66.79,25.81,MegaShop | Returning Customer | Spent: $77.43
+581,MegaShop,Credit Card,Returning,Weekday,56.0,4,59.75,14.0,MegaShop | Returning Customer | Spent: $56.0
+582,DiscountStore,Cash,Returning,Weekday,84.96,2,30.18,42.48,DiscountStore | Returning Customer | Spent: $84.96
+583,SuperMart,Credit Card,New,Weekday,129.26,3,35.8,43.09,SuperMart | New Customer | Spent: $129.26
+584,SuperMart,Mobile Payment,Returning,Weekday,115.47,4,50.39,28.87,SuperMart | Returning Customer | Spent: $115.47
+585,GroceryWorld,Gift Card,Returning,Weekday,129.35,5,27.79,25.87,GroceryWorld | Returning Customer | Spent: $129.35
+586,DiscountStore,Gift Card,Loyal,Weekend,115.66,2,20.15,57.83,DiscountStore | Loyal Customer | Spent: $115.66
+587,MegaShop,Mobile Payment,Returning,Weekday,66.89,2,43.11,33.44,MegaShop | Returning Customer | Spent: $66.89
+588,SuperMart,Gift Card,Returning,Weekday,90.08,1,31.18,90.08,SuperMart | Returning Customer | Spent: $90.08
+589,MegaShop,Gift Card,New,Weekday,76.59,2,32.74,38.3,MegaShop | New Customer | Spent: $76.59
+590,SuperMart,Credit Card,Returning,Weekend,139.92,4,17.49,34.98,SuperMart | Returning Customer | Spent: $139.92
+591,SuperMart,Mobile Payment,New,Weekday,64.1,2,4.23,32.05,SuperMart | New Customer | Spent: $64.1
+592,SuperMart,Cash,New,Weekday,126.81,2,33.54,63.41,SuperMart | New Customer | Spent: $126.81
+593,DiscountStore,Credit Card,Returning,Weekend,126.79,4,43.57,31.7,DiscountStore | Returning Customer | Spent: $126.79
+594,QuickBuy,Mobile Payment,Loyal,Weekend,154.89,3,26.61,51.63,QuickBuy | Loyal Customer | Spent: $154.89
+595,MegaShop,Credit Card,New,Weekday,87.71,4,51.55,21.93,MegaShop | New Customer | Spent: $87.71
+596,DiscountStore,Cash,Returning,Weekend,121.37,1,19.44,121.37,DiscountStore | Returning Customer | Spent: $121.37
+597,DiscountStore,Cash,Loyal,Weekend,168.45,3,14.18,56.15,DiscountStore | Loyal Customer | Spent: $168.45
+598,DiscountStore,Mobile Payment,New,Weekend,81.47,6,28.99,13.58,DiscountStore | New Customer | Spent: $81.47
+599,DiscountStore,Cash,Returning,Weekday,53.95,3,28.76,17.98,DiscountStore | Returning Customer | Spent: $53.95
+600,DiscountStore,Credit Card,Returning,Weekend,43.6,1,41.55,43.6,DiscountStore | Returning Customer | Spent: $43.6
+601,GroceryWorld,Cash,Returning,Weekday,121.38,3,18.38,40.46,GroceryWorld | Returning Customer | Spent: $121.38
+602,MegaShop,Credit Card,New,Weekday,43.51,6,50.52,7.25,MegaShop | New Customer | Spent: $43.51
+603,DiscountStore,Credit Card,New,Weekday,88.83,4,59.5,22.21,DiscountStore | New Customer | Spent: $88.83
+604,MegaShop,Cash,Returning,Weekday,113.12,4,29.41,28.28,MegaShop | Returning Customer | Spent: $113.12
+605,GroceryWorld,Mobile Payment,Returning,Weekday,105.56,1,48.75,105.56,GroceryWorld | Returning Customer | Spent: $105.56
+606,GroceryWorld,Gift Card,New,Weekend,112.76,5,14.15,22.55,GroceryWorld | New Customer | Spent: $112.76
+607,MegaShop,Cash,Returning,Weekday,106.67,0,46.13,0.0,MegaShop | Returning Customer | Spent: $106.67
+608,SuperMart,Credit Card,New,Weekday,138.37,5,45.71,27.67,SuperMart | New Customer | Spent: $138.37
+609,QuickBuy,Credit Card,Returning,Weekday,71.43,2,42.95,35.72,QuickBuy | Returning Customer | Spent: $71.43
+610,SuperMart,Cash,New,Weekday,79.69,0,29.77,0.0,SuperMart | New Customer | Spent: $79.69
+611,SuperMart,Mobile Payment,Loyal,Weekend,76.82,3,-14.31,25.61,SuperMart | Loyal Customer | Spent: $76.82
+612,SuperMart,Mobile Payment,New,Weekday,124.91,6,20.37,20.82,SuperMart | New Customer | Spent: $124.91
+613,DiscountStore,Credit Card,New,Weekday,127.01,3,20.61,42.34,DiscountStore | New Customer | Spent: $127.01
+614,GroceryWorld,Credit Card,New,Weekday,113.54,2,15.33,56.77,GroceryWorld | New Customer | Spent: $113.54
+615,SuperMart,Mobile Payment,New,Weekday,135.5,2,31.83,67.75,SuperMart | New Customer | Spent: $135.5
+616,GroceryWorld,Gift Card,Loyal,Weekday,64.66,2,23.72,32.33,GroceryWorld | Loyal Customer | Spent: $64.66
+617,MegaShop,Cash,Loyal,Weekend,150.02,3,17.63,50.01,MegaShop | Loyal Customer | Spent: $150.02
+618,QuickBuy,Credit Card,New,Weekend,145.7,7,14.12,20.81,QuickBuy | New Customer | Spent: $145.7
+619,MegaShop,Credit Card,Returning,Weekday,122.07,0,19.27,0.0,MegaShop | Returning Customer | Spent: $122.07
+620,MegaShop,Mobile Payment,Returning,Weekend,153.45,3,46.82,51.15,MegaShop | Returning Customer | Spent: $153.45
+621,DiscountStore,Cash,Loyal,Weekend,50.3,3,20.08,16.77,DiscountStore | Loyal Customer | Spent: $50.3
+622,QuickBuy,Mobile Payment,Returning,Weekend,84.27,4,22.28,21.07,QuickBuy | Returning Customer | Spent: $84.27
+623,MegaShop,Cash,New,Weekday,77.94,3,23.15,25.98,MegaShop | New Customer | Spent: $77.94
+624,MegaShop,Cash,Returning,Weekday,121.64,3,35.08,40.55,MegaShop | Returning Customer | Spent: $121.64
+625,QuickBuy,Cash,Returning,Weekday,68.5,3,36.84,22.83,QuickBuy | Returning Customer | Spent: $68.5
+626,QuickBuy,Credit Card,New,Weekend,122.72,3,-15.67,40.91,QuickBuy | New Customer | Spent: $122.72
+627,MegaShop,Gift Card,Returning,Weekend,141.12,7,45.32,20.16,MegaShop | Returning Customer | Spent: $141.12
+628,QuickBuy,Mobile Payment,New,Weekday,120.86,2,51.55,60.43,QuickBuy | New Customer | Spent: $120.86
+629,MegaShop,Gift Card,Returning,Weekday,108.51,2,14.25,54.26,MegaShop | Returning Customer | Spent: $108.51
+630,MegaShop,Mobile Payment,New,Weekend,70.36,3,15.42,23.45,MegaShop | New Customer | Spent: $70.36
+631,DiscountStore,Cash,Returning,Weekend,74.59,3,23.25,24.86,DiscountStore | Returning Customer | Spent: $74.59
+632,SuperMart,Credit Card,Returning,Weekend,137.49,4,18.66,34.37,SuperMart | Returning Customer | Spent: $137.49
+633,MegaShop,Gift Card,Returning,Weekend,123.38,2,33.36,61.69,MegaShop | Returning Customer | Spent: $123.38
+634,GroceryWorld,Credit Card,New,Weekday,98.83,3,0.8,32.94,GroceryWorld | New Customer | Spent: $98.83
+635,SuperMart,Mobile Payment,Returning,Weekday,87.46,3,13.23,29.15,SuperMart | Returning Customer | Spent: $87.46
+636,SuperMart,Credit Card,Returning,Weekend,39.23,3,53.09,13.08,SuperMart | Returning Customer | Spent: $39.23
+637,SuperMart,Credit Card,Returning,Weekday,67.87,2,16.08,33.94,SuperMart | Returning Customer | Spent: $67.87
+638,DiscountStore,Gift Card,Returning,Weekday,157.34,3,48.65,52.45,DiscountStore | Returning Customer | Spent: $157.34
+639,MegaShop,Cash,Returning,Weekend,61.59,1,35.33,61.59,MegaShop | Returning Customer | Spent: $61.59
+640,DiscountStore,Credit Card,Loyal,Weekday,105.68,5,2.86,21.14,DiscountStore | Loyal Customer | Spent: $105.68
+641,MegaShop,Cash,New,Weekend,130.22,4,39.53,32.56,MegaShop | New Customer | Spent: $130.22
+642,DiscountStore,Mobile Payment,Loyal,Weekday,62.35,3,28.23,20.78,DiscountStore | Loyal Customer | Spent: $62.35
+643,DiscountStore,Credit Card,Returning,Weekend,105.54,4,23.17,26.39,DiscountStore | Returning Customer | Spent: $105.54
+644,GroceryWorld,Gift Card,New,Weekday,128.14,3,33.67,42.71,GroceryWorld | New Customer | Spent: $128.14
+645,DiscountStore,Mobile Payment,New,Weekday,100.37,3,37.12,33.46,DiscountStore | New Customer | Spent: $100.37
+646,QuickBuy,Mobile Payment,New,Weekend,186.05,4,40.61,46.51,QuickBuy | New Customer | Spent: $186.05
+647,GroceryWorld,Gift Card,Returning,Weekday,49.94,3,47.67,16.65,GroceryWorld | Returning Customer | Spent: $49.94
+648,DiscountStore,Credit Card,Returning,Weekend,131.76,4,36.12,32.94,DiscountStore | Returning Customer | Spent: $131.76
+649,SuperMart,Credit Card,Returning,Weekend,94.82,2,9.37,47.41,SuperMart | Returning Customer | Spent: $94.82
+650,QuickBuy,Mobile Payment,Returning,Weekday,123.16,5,22.9,24.63,QuickBuy | Returning Customer | Spent: $123.16
+651,QuickBuy,Credit Card,Returning,Weekday,113.24,4,74.15,28.31,QuickBuy | Returning Customer | Spent: $113.24
+652,QuickBuy,Cash,New,Weekday,78.01,2,40.87,39.0,QuickBuy | New Customer | Spent: $78.01
+653,GroceryWorld,Gift Card,New,Weekday,106.87,3,65.54,35.62,GroceryWorld | New Customer | Spent: $106.87
+654,DiscountStore,Cash,Returning,Weekend,44.26,4,50.93,11.07,DiscountStore | Returning Customer | Spent: $44.26
+655,DiscountStore,Credit Card,New,Weekend,118.1,4,33.63,29.52,DiscountStore | New Customer | Spent: $118.1
+656,SuperMart,Mobile Payment,New,Weekend,108.94,4,34.52,27.24,SuperMart | New Customer | Spent: $108.94
+657,SuperMart,Gift Card,Returning,Weekend,119.16,5,29.45,23.83,SuperMart | Returning Customer | Spent: $119.16
+658,QuickBuy,Credit Card,Returning,Weekday,131.74,2,3.93,65.87,QuickBuy | Returning Customer | Spent: $131.74
+659,SuperMart,Credit Card,Loyal,Weekend,111.03,3,30.27,37.01,SuperMart | Loyal Customer | Spent: $111.03
+660,GroceryWorld,Mobile Payment,Loyal,Weekend,104.44,3,48.16,34.81,GroceryWorld | Loyal Customer | Spent: $104.44
+661,DiscountStore,Mobile Payment,Returning,Weekend,73.57,3,21.01,24.52,DiscountStore | Returning Customer | Spent: $73.57
+662,QuickBuy,Cash,Returning,Weekend,78.63,2,36.18,39.32,QuickBuy | Returning Customer | Spent: $78.63
+663,SuperMart,Gift Card,Returning,Weekday,135.6,3,42.77,45.2,SuperMart | Returning Customer | Spent: $135.6
+664,GroceryWorld,Gift Card,Returning,Weekend,143.09,2,16.35,71.55,GroceryWorld | Returning Customer | Spent: $143.09
+665,GroceryWorld,Mobile Payment,New,Weekday,92.86,6,23.23,15.48,GroceryWorld | New Customer | Spent: $92.86
+666,SuperMart,Cash,Returning,Weekday,101.38,4,14.73,25.35,SuperMart | Returning Customer | Spent: $101.38
+667,DiscountStore,Gift Card,Loyal,Weekday,72.86,2,17.67,36.43,DiscountStore | Loyal Customer | Spent: $72.86
+668,SuperMart,Mobile Payment,New,Weekend,135.18,1,10.69,135.18,SuperMart | New Customer | Spent: $135.18
+669,QuickBuy,Credit Card,Returning,Weekend,119.96,4,16.49,29.99,QuickBuy | Returning Customer | Spent: $119.96
+670,SuperMart,Gift Card,Returning,Weekend,158.24,4,51.29,39.56,SuperMart | Returning Customer | Spent: $158.24
+671,GroceryWorld,Cash,New,Weekend,73.65,2,16.27,36.83,GroceryWorld | New Customer | Spent: $73.65
+672,SuperMart,Cash,New,Weekday,88.66,6,31.9,14.78,SuperMart | New Customer | Spent: $88.66
+673,DiscountStore,Cash,New,Weekend,106.94,3,22.46,35.65,DiscountStore | New Customer | Spent: $106.94
+674,MegaShop,Credit Card,New,Weekday,119.39,0,47.68,0.0,MegaShop | New Customer | Spent: $119.39
+675,SuperMart,Gift Card,New,Weekday,93.53,3,49.67,31.18,SuperMart | New Customer | Spent: $93.53
+676,DiscountStore,Gift Card,Loyal,Weekday,73.81,1,42.96,73.81,DiscountStore | Loyal Customer | Spent: $73.81
+677,DiscountStore,Credit Card,New,Weekend,126.44,2,34.59,63.22,DiscountStore | New Customer | Spent: $126.44
+678,GroceryWorld,Gift Card,Returning,Weekend,121.63,3,26.53,40.54,GroceryWorld | Returning Customer | Spent: $121.63
+679,DiscountStore,Credit Card,New,Weekday,72.51,2,12.12,36.26,DiscountStore | New Customer | Spent: $72.51
+680,DiscountStore,Credit Card,Loyal,Weekday,140.66,3,59.15,46.89,DiscountStore | Loyal Customer | Spent: $140.66
+681,DiscountStore,Credit Card,New,Weekend,135.11,3,18.6,45.04,DiscountStore | New Customer | Spent: $135.11
+682,DiscountStore,Cash,Returning,Weekday,104.03,2,39.95,52.01,DiscountStore | Returning Customer | Spent: $104.03
+683,QuickBuy,Gift Card,Loyal,Weekend,102.39,5,45.89,20.48,QuickBuy | Loyal Customer | Spent: $102.39
+684,QuickBuy,Credit Card,Loyal,Weekend,116.62,1,21.67,116.62,QuickBuy | Loyal Customer | Spent: $116.62
+685,GroceryWorld,Gift Card,New,Weekday,74.15,3,45.57,24.72,GroceryWorld | New Customer | Spent: $74.15
+686,SuperMart,Cash,Loyal,Weekday,100.9,3,41.46,33.63,SuperMart | Loyal Customer | Spent: $100.9
+687,DiscountStore,Credit Card,Returning,Weekend,35.43,3,55.92,11.81,DiscountStore | Returning Customer | Spent: $35.43
+688,SuperMart,Mobile Payment,Returning,Weekend,126.29,4,22.96,31.57,SuperMart | Returning Customer | Spent: $126.29
+689,SuperMart,Cash,New,Weekday,53.16,4,10.71,13.29,SuperMart | New Customer | Spent: $53.16
+690,GroceryWorld,Mobile Payment,New,Weekend,145.1,1,22.42,145.1,GroceryWorld | New Customer | Spent: $145.1
+691,DiscountStore,Gift Card,Returning,Weekday,90.1,4,33.13,22.52,DiscountStore | Returning Customer | Spent: $90.1
+692,DiscountStore,Gift Card,Returning,Weekday,93.65,2,30.87,46.82,DiscountStore | Returning Customer | Spent: $93.65
+693,MegaShop,Cash,Returning,Weekend,81.17,1,24.1,81.17,MegaShop | Returning Customer | Spent: $81.17
+694,SuperMart,Gift Card,Returning,Weekend,91.36,3,1.36,30.45,SuperMart | Returning Customer | Spent: $91.36
+695,SuperMart,Mobile Payment,Returning,Weekday,142.56,4,37.06,35.64,SuperMart | Returning Customer | Spent: $142.56
+696,QuickBuy,Credit Card,New,Weekend,25.37,0,59.59,0.0,QuickBuy | New Customer | Spent: $25.37
+697,MegaShop,Credit Card,Returning,Weekday,138.31,4,36.96,34.58,MegaShop | Returning Customer | Spent: $138.31
+698,QuickBuy,Credit Card,New,Weekday,110.14,3,39.14,36.71,QuickBuy | New Customer | Spent: $110.14
+699,QuickBuy,Cash,Returning,Weekday,63.79,4,38.59,15.95,QuickBuy | Returning Customer | Spent: $63.79
+700,QuickBuy,Gift Card,Returning,Weekend,67.74,0,35.96,0.0,QuickBuy | Returning Customer | Spent: $67.74
+701,GroceryWorld,Mobile Payment,Loyal,Weekday,150.29,2,43.97,75.15,GroceryWorld | Loyal Customer | Spent: $150.29
+702,GroceryWorld,Gift Card,New,Weekday,71.63,6,35.93,11.94,GroceryWorld | New Customer | Spent: $71.63
+703,QuickBuy,Gift Card,New,Weekday,65.4,4,25.31,16.35,QuickBuy | New Customer | Spent: $65.4
+704,MegaShop,Gift Card,New,Weekend,134.12,4,18.06,33.53,MegaShop | New Customer | Spent: $134.12
+705,SuperMart,Credit Card,New,Weekend,110.16,2,26.27,55.08,SuperMart | New Customer | Spent: $110.16
+706,MegaShop,Mobile Payment,New,Weekend,71.86,1,34.71,71.86,MegaShop | New Customer | Spent: $71.86
+707,DiscountStore,Mobile Payment,Loyal,Weekday,106.5,2,25.26,53.25,DiscountStore | Loyal Customer | Spent: $106.5
+708,GroceryWorld,Gift Card,New,Weekend,69.23,3,34.72,23.08,GroceryWorld | New Customer | Spent: $69.23
+709,SuperMart,Credit Card,New,Weekday,133.02,2,36.59,66.51,SuperMart | New Customer | Spent: $133.02
+710,SuperMart,Credit Card,Returning,Weekend,131.84,4,42.5,32.96,SuperMart | Returning Customer | Spent: $131.84
+711,DiscountStore,Mobile Payment,Returning,Weekend,115.96,3,49.24,38.65,DiscountStore | Returning Customer | Spent: $115.96
+712,DiscountStore,Credit Card,Returning,Weekday,110.85,3,31.17,36.95,DiscountStore | Returning Customer | Spent: $110.85
+713,QuickBuy,Credit Card,New,Weekend,152.84,1,10.38,152.84,QuickBuy | New Customer | Spent: $152.84
+714,GroceryWorld,Credit Card,Returning,Weekday,99.99,3,24.82,33.33,GroceryWorld | Returning Customer | Spent: $99.99
+715,GroceryWorld,Cash,New,Weekday,64.54,4,30.66,16.14,GroceryWorld | New Customer | Spent: $64.54
+716,MegaShop,Gift Card,New,Weekday,113.48,3,2.46,37.83,MegaShop | New Customer | Spent: $113.48
+717,QuickBuy,Mobile Payment,Loyal,Weekday,162.58,2,50.83,81.29,QuickBuy | Loyal Customer | Spent: $162.58
+718,QuickBuy,Mobile Payment,New,Weekday,69.56,2,32.14,34.78,QuickBuy | New Customer | Spent: $69.56
+719,QuickBuy,Cash,Returning,Weekend,89.16,4,35.72,22.29,QuickBuy | Returning Customer | Spent: $89.16
+720,QuickBuy,Gift Card,Returning,Weekday,112.49,1,50.48,112.49,QuickBuy | Returning Customer | Spent: $112.49
+721,GroceryWorld,Mobile Payment,New,Weekend,98.38,4,20.55,24.6,GroceryWorld | New Customer | Spent: $98.38
+722,GroceryWorld,Credit Card,Loyal,Weekday,70.53,1,38.61,70.53,GroceryWorld | Loyal Customer | Spent: $70.53
+723,QuickBuy,Mobile Payment,New,Weekday,133.66,2,28.35,66.83,QuickBuy | New Customer | Spent: $133.66
+724,MegaShop,Credit Card,Returning,Weekend,169.6,1,27.24,169.6,MegaShop | Returning Customer | Spent: $169.6
+725,SuperMart,Cash,Loyal,Weekday,105.88,1,18.42,105.88,SuperMart | Loyal Customer | Spent: $105.88
+726,SuperMart,Credit Card,Returning,Weekday,72.88,2,54.98,36.44,SuperMart | Returning Customer | Spent: $72.88
+727,MegaShop,Mobile Payment,Loyal,Weekend,53.53,4,24.37,13.38,MegaShop | Loyal Customer | Spent: $53.53
+728,QuickBuy,Mobile Payment,New,Weekday,107.74,3,40.49,35.91,QuickBuy | New Customer | Spent: $107.74
+729,GroceryWorld,Mobile Payment,Returning,Weekday,133.12,4,1.87,33.28,GroceryWorld | Returning Customer | Spent: $133.12
+730,SuperMart,Cash,New,Weekday,114.26,2,47.7,57.13,SuperMart | New Customer | Spent: $114.26
+731,DiscountStore,Cash,Returning,Weekend,99.93,3,45.78,33.31,DiscountStore | Returning Customer | Spent: $99.93
+732,DiscountStore,Gift Card,Loyal,Weekend,82.32,5,31.46,16.46,DiscountStore | Loyal Customer | Spent: $82.32
+733,MegaShop,Mobile Payment,New,Weekend,67.24,5,26.6,13.45,MegaShop | New Customer | Spent: $67.24
+734,QuickBuy,Credit Card,Returning,Weekend,125.04,3,36.0,41.68,QuickBuy | Returning Customer | Spent: $125.04
+735,SuperMart,Cash,New,Weekday,127.41,4,64.33,31.85,SuperMart | New Customer | Spent: $127.41
+736,QuickBuy,Mobile Payment,Returning,Weekday,53.63,4,3.55,13.41,QuickBuy | Returning Customer | Spent: $53.63
+737,SuperMart,Mobile Payment,Returning,Weekend,147.7,3,41.73,49.23,SuperMart | Returning Customer | Spent: $147.7
+738,MegaShop,Cash,Loyal,Weekday,117.22,2,16.33,58.61,MegaShop | Loyal Customer | Spent: $117.22
+739,MegaShop,Gift Card,Returning,Weekday,141.99,3,29.7,47.33,MegaShop | Returning Customer | Spent: $141.99
+740,DiscountStore,Cash,New,Weekday,59.74,3,26.28,19.91,DiscountStore | New Customer | Spent: $59.74
+741,QuickBuy,Cash,New,Weekday,59.03,5,23.58,11.81,QuickBuy | New Customer | Spent: $59.03
+742,DiscountStore,Credit Card,New,Weekend,95.53,3,29.84,31.84,DiscountStore | New Customer | Spent: $95.53
+743,QuickBuy,Credit Card,New,Weekday,115.08,2,12.99,57.54,QuickBuy | New Customer | Spent: $115.08
+744,DiscountStore,Gift Card,New,Weekday,153.89,4,45.44,38.47,DiscountStore | New Customer | Spent: $153.89
+745,GroceryWorld,Mobile Payment,Loyal,Weekday,121.18,4,3.09,30.3,GroceryWorld | Loyal Customer | Spent: $121.18
+746,GroceryWorld,Cash,Returning,Weekend,92.72,1,38.1,92.72,GroceryWorld | Returning Customer | Spent: $92.72
+747,GroceryWorld,Gift Card,Returning,Weekday,69.21,5,25.1,13.84,GroceryWorld | Returning Customer | Spent: $69.21
+748,GroceryWorld,Credit Card,New,Weekday,136.9,2,12.44,68.45,GroceryWorld | New Customer | Spent: $136.9
+749,SuperMart,Cash,Loyal,Weekend,71.06,1,33.04,71.06,SuperMart | Loyal Customer | Spent: $71.06
+750,GroceryWorld,Mobile Payment,Returning,Weekend,148.85,2,6.65,74.43,GroceryWorld | Returning Customer | Spent: $148.85
+751,MegaShop,Credit Card,New,Weekday,91.47,5,30.6,18.29,MegaShop | New Customer | Spent: $91.47
+752,MegaShop,Credit Card,Returning,Weekday,147.72,4,8.66,36.93,MegaShop | Returning Customer | Spent: $147.72
+753,SuperMart,Credit Card,Returning,Weekday,120.37,5,36.92,24.07,SuperMart | Returning Customer | Spent: $120.37
+754,GroceryWorld,Gift Card,New,Weekday,95.89,4,16.13,23.97,GroceryWorld | New Customer | Spent: $95.89
+755,GroceryWorld,Mobile Payment,Returning,Weekday,84.42,1,23.24,84.42,GroceryWorld | Returning Customer | Spent: $84.42
+756,GroceryWorld,Cash,Returning,Weekday,89.77,2,34.41,44.89,GroceryWorld | Returning Customer | Spent: $89.77
+757,DiscountStore,Gift Card,New,Weekday,112.85,1,18.41,112.85,DiscountStore | New Customer | Spent: $112.85
+758,QuickBuy,Gift Card,Loyal,Weekday,102.31,4,29.13,25.58,QuickBuy | Loyal Customer | Spent: $102.31
+759,DiscountStore,Gift Card,Loyal,Weekend,82.19,2,7.29,41.09,DiscountStore | Loyal Customer | Spent: $82.19
+760,QuickBuy,Credit Card,Returning,Weekend,95.03,2,39.46,47.52,QuickBuy | Returning Customer | Spent: $95.03
+761,GroceryWorld,Mobile Payment,Returning,Weekend,102.36,3,56.47,34.12,GroceryWorld | Returning Customer | Spent: $102.36
+762,GroceryWorld,Gift Card,Returning,Weekday,36.14,4,71.88,9.03,GroceryWorld | Returning Customer | Spent: $36.14
+763,DiscountStore,Cash,Returning,Weekday,113.75,2,31.37,56.87,DiscountStore | Returning Customer | Spent: $113.75
+764,DiscountStore,Mobile Payment,Returning,Weekend,70.61,3,41.82,23.54,DiscountStore | Returning Customer | Spent: $70.61
+765,QuickBuy,Cash,New,Weekday,65.4,4,3.29,16.35,QuickBuy | New Customer | Spent: $65.4
+766,MegaShop,Mobile Payment,Returning,Weekday,49.38,2,52.54,24.69,MegaShop | Returning Customer | Spent: $49.38
+767,QuickBuy,Cash,Loyal,Weekday,46.18,3,41.64,15.39,QuickBuy | Loyal Customer | Spent: $46.18
+768,DiscountStore,Credit Card,Returning,Weekend,59.34,2,22.74,29.67,DiscountStore | Returning Customer | Spent: $59.34
+769,DiscountStore,Gift Card,New,Weekend,78.73,5,48.56,15.75,DiscountStore | New Customer | Spent: $78.73
+770,SuperMart,Cash,Returning,Weekday,158.6,7,26.18,22.66,SuperMart | Returning Customer | Spent: $158.6
+771,DiscountStore,Mobile Payment,New,Weekday,84.22,4,23.13,21.06,DiscountStore | New Customer | Spent: $84.22
+772,SuperMart,Gift Card,New,Weekend,105.33,2,37.13,52.67,SuperMart | New Customer | Spent: $105.33
+773,MegaShop,Gift Card,New,Weekday,112.01,0,14.05,0.0,MegaShop | New Customer | Spent: $112.01
+774,QuickBuy,Mobile Payment,New,Weekend,103.93,3,45.32,34.64,QuickBuy | New Customer | Spent: $103.93
+775,QuickBuy,Cash,Returning,Weekend,97.68,3,14.16,32.56,QuickBuy | Returning Customer | Spent: $97.68
+776,SuperMart,Credit Card,Returning,Weekend,64.14,2,14.25,32.07,SuperMart | Returning Customer | Spent: $64.14
+777,QuickBuy,Credit Card,New,Weekday,143.53,1,16.35,143.53,QuickBuy | New Customer | Spent: $143.53
+778,DiscountStore,Cash,Loyal,Weekday,154.22,7,41.39,22.03,DiscountStore | Loyal Customer | Spent: $154.22
+779,GroceryWorld,Gift Card,Loyal,Weekday,49.52,4,20.75,12.38,GroceryWorld | Loyal Customer | Spent: $49.52
+780,SuperMart,Gift Card,Loyal,Weekend,69.28,7,9.78,9.9,SuperMart | Loyal Customer | Spent: $69.28
+781,QuickBuy,Gift Card,New,Weekend,91.61,4,20.91,22.9,QuickBuy | New Customer | Spent: $91.61
+782,SuperMart,Gift Card,Returning,Weekday,71.06,2,29.52,35.53,SuperMart | Returning Customer | Spent: $71.06
+783,SuperMart,Cash,Loyal,Weekday,115.18,2,12.29,57.59,SuperMart | Loyal Customer | Spent: $115.18
+784,GroceryWorld,Gift Card,Returning,Weekend,78.15,4,12.72,19.54,GroceryWorld | Returning Customer | Spent: $78.15
+785,DiscountStore,Mobile Payment,New,Weekend,164.95,2,61.67,82.48,DiscountStore | New Customer | Spent: $164.95
+786,SuperMart,Gift Card,New,Weekend,135.72,5,17.09,27.14,SuperMart | New Customer | Spent: $135.72
+787,QuickBuy,Credit Card,Returning,Weekday,106.38,4,25.15,26.59,QuickBuy | Returning Customer | Spent: $106.38
+788,MegaShop,Gift Card,Loyal,Weekday,130.81,0,24.49,0.0,MegaShop | Loyal Customer | Spent: $130.81
+789,SuperMart,Cash,Returning,Weekend,133.18,0,23.68,0.0,SuperMart | Returning Customer | Spent: $133.18
+790,SuperMart,Credit Card,Returning,Weekend,83.08,4,39.32,20.77,SuperMart | Returning Customer | Spent: $83.08
+791,GroceryWorld,Cash,New,Weekday,75.51,2,44.22,37.76,GroceryWorld | New Customer | Spent: $75.51
+792,DiscountStore,Cash,Returning,Weekday,102.34,2,25.41,51.17,DiscountStore | Returning Customer | Spent: $102.34
+793,MegaShop,Credit Card,Loyal,Weekday,125.85,5,11.45,25.17,MegaShop | Loyal Customer | Spent: $125.85
+794,QuickBuy,Cash,New,Weekday,104.17,3,49.12,34.72,QuickBuy | New Customer | Spent: $104.17
+795,MegaShop,Cash,Returning,Weekday,52.69,4,28.57,13.17,MegaShop | Returning Customer | Spent: $52.69
+796,QuickBuy,Gift Card,Loyal,Weekend,75.92,0,55.95,0.0,QuickBuy | Loyal Customer | Spent: $75.92
+797,DiscountStore,Mobile Payment,New,Weekday,97.78,2,-3.68,48.89,DiscountStore | New Customer | Spent: $97.78
+798,QuickBuy,Cash,Returning,Weekend,97.73,3,32.93,32.58,QuickBuy | Returning Customer | Spent: $97.73
+799,GroceryWorld,Cash,New,Weekday,159.18,3,58.78,53.06,GroceryWorld | New Customer | Spent: $159.18
+800,GroceryWorld,Cash,Returning,Weekend,58.42,2,24.7,29.21,GroceryWorld | Returning Customer | Spent: $58.42
+801,GroceryWorld,Gift Card,Returning,Weekend,115.17,3,26.62,38.39,GroceryWorld | Returning Customer | Spent: $115.17
+802,GroceryWorld,Mobile Payment,Returning,Weekday,144.67,2,34.43,72.34,GroceryWorld | Returning Customer | Spent: $144.67
+803,MegaShop,Credit Card,Returning,Weekday,168.14,2,21.62,84.07,MegaShop | Returning Customer | Spent: $168.14
+804,DiscountStore,Gift Card,New,Weekday,87.87,4,25.32,21.97,DiscountStore | New Customer | Spent: $87.87
+805,QuickBuy,Gift Card,Loyal,Weekday,114.74,4,24.93,28.69,QuickBuy | Loyal Customer | Spent: $114.74
+806,QuickBuy,Mobile Payment,Returning,Weekend,117.09,1,20.59,117.09,QuickBuy | Returning Customer | Spent: $117.09
+807,GroceryWorld,Mobile Payment,New,Weekend,105.86,4,48.43,26.47,GroceryWorld | New Customer | Spent: $105.86
+808,GroceryWorld,Gift Card,Returning,Weekday,97.03,1,36.92,97.03,GroceryWorld | Returning Customer | Spent: $97.03
+809,SuperMart,Credit Card,Returning,Weekday,113.08,5,33.76,22.62,SuperMart | Returning Customer | Spent: $113.08
+810,DiscountStore,Gift Card,New,Weekday,24.03,1,42.13,24.03,DiscountStore | New Customer | Spent: $24.03
+811,MegaShop,Mobile Payment,Loyal,Weekend,120.46,4,26.03,30.12,MegaShop | Loyal Customer | Spent: $120.46
+812,QuickBuy,Credit Card,Loyal,Weekday,103.79,3,18.39,34.6,QuickBuy | Loyal Customer | Spent: $103.79
+813,SuperMart,Mobile Payment,New,Weekday,93.33,2,20.96,46.66,SuperMart | New Customer | Spent: $93.33
+814,SuperMart,Credit Card,Loyal,Weekend,161.41,2,30.03,80.7,SuperMart | Loyal Customer | Spent: $161.41
+815,QuickBuy,Cash,New,Weekend,79.75,1,14.11,79.75,QuickBuy | New Customer | Spent: $79.75
+816,MegaShop,Mobile Payment,New,Weekday,87.91,2,22.5,43.95,MegaShop | New Customer | Spent: $87.91
+817,SuperMart,Mobile Payment,New,Weekend,159.75,1,22.26,159.75,SuperMart | New Customer | Spent: $159.75
+818,SuperMart,Gift Card,Loyal,Weekday,75.04,3,61.87,25.01,SuperMart | Loyal Customer | Spent: $75.04
+819,DiscountStore,Mobile Payment,Returning,Weekday,83.5,1,-11.61,83.5,DiscountStore | Returning Customer | Spent: $83.5
+820,MegaShop,Mobile Payment,New,Weekend,95.59,1,27.31,95.59,MegaShop | New Customer | Spent: $95.59
+821,SuperMart,Cash,Returning,Weekend,125.22,2,55.89,62.61,SuperMart | Returning Customer | Spent: $125.22
+822,MegaShop,Mobile Payment,Returning,Weekday,106.23,5,31.83,21.25,MegaShop | Returning Customer | Spent: $106.23
+823,QuickBuy,Cash,New,Weekday,61.22,6,41.3,10.2,QuickBuy | New Customer | Spent: $61.22
+824,GroceryWorld,Cash,Loyal,Weekday,84.03,2,31.5,42.02,GroceryWorld | Loyal Customer | Spent: $84.03
+825,SuperMart,Cash,Loyal,Weekday,81.78,3,19.99,27.26,SuperMart | Loyal Customer | Spent: $81.78
+826,DiscountStore,Cash,Returning,Weekday,97.68,5,-3.63,19.54,DiscountStore | Returning Customer | Spent: $97.68
+827,QuickBuy,Credit Card,Loyal,Weekday,112.78,5,33.08,22.56,QuickBuy | Loyal Customer | Spent: $112.78
+828,MegaShop,Gift Card,Returning,Weekday,112.55,0,18.37,0.0,MegaShop | Returning Customer | Spent: $112.55
+829,QuickBuy,Credit Card,Loyal,Weekend,46.72,3,17.99,15.57,QuickBuy | Loyal Customer | Spent: $46.72
+830,SuperMart,Mobile Payment,Returning,Weekend,131.92,3,22.52,43.97,SuperMart | Returning Customer | Spent: $131.92
+831,MegaShop,Credit Card,Returning,Weekend,107.58,1,56.17,107.58,MegaShop | Returning Customer | Spent: $107.58
+832,GroceryWorld,Credit Card,New,Weekday,141.54,1,66.07,141.54,GroceryWorld | New Customer | Spent: $141.54
+833,QuickBuy,Mobile Payment,Loyal,Weekend,113.33,0,33.26,0.0,QuickBuy | Loyal Customer | Spent: $113.33
+834,SuperMart,Mobile Payment,Returning,Weekend,133.04,3,23.03,44.35,SuperMart | Returning Customer | Spent: $133.04
+835,DiscountStore,Mobile Payment,New,Weekend,114.0,2,12.34,57.0,DiscountStore | New Customer | Spent: $114.0
+836,MegaShop,Credit Card,New,Weekend,140.39,1,37.03,140.39,MegaShop | New Customer | Spent: $140.39
+837,QuickBuy,Credit Card,Returning,Weekend,115.67,6,56.74,19.28,QuickBuy | Returning Customer | Spent: $115.67
+838,QuickBuy,Mobile Payment,Returning,Weekday,97.06,0,26.29,0.0,QuickBuy | Returning Customer | Spent: $97.06
+839,GroceryWorld,Gift Card,Returning,Weekday,168.17,1,-5.68,168.17,GroceryWorld | Returning Customer | Spent: $168.17
+840,GroceryWorld,Gift Card,Loyal,Weekend,126.67,3,40.05,42.22,GroceryWorld | Loyal Customer | Spent: $126.67
+841,DiscountStore,Cash,New,Weekend,117.21,2,44.78,58.61,DiscountStore | New Customer | Spent: $117.21
+842,DiscountStore,Mobile Payment,Returning,Weekend,61.71,2,6.21,30.86,DiscountStore | Returning Customer | Spent: $61.71
+843,SuperMart,Cash,New,Weekday,61.35,6,32.65,10.23,SuperMart | New Customer | Spent: $61.35
+844,SuperMart,Gift Card,Loyal,Weekday,108.78,3,36.77,36.26,SuperMart | Loyal Customer | Spent: $108.78
+845,DiscountStore,Cash,Loyal,Weekday,104.37,1,28.9,104.37,DiscountStore | Loyal Customer | Spent: $104.37
+846,DiscountStore,Mobile Payment,Returning,Weekend,81.58,3,18.14,27.19,DiscountStore | Returning Customer | Spent: $81.58
+847,MegaShop,Mobile Payment,Returning,Weekday,104.23,4,45.24,26.06,MegaShop | Returning Customer | Spent: $104.23
+848,GroceryWorld,Mobile Payment,New,Weekday,147.66,0,23.95,0.0,GroceryWorld | New Customer | Spent: $147.66
+849,SuperMart,Credit Card,Returning,Weekday,120.86,2,7.72,60.43,SuperMart | Returning Customer | Spent: $120.86
+850,GroceryWorld,Cash,Loyal,Weekday,65.77,1,-0.74,65.77,GroceryWorld | Loyal Customer | Spent: $65.77
+851,GroceryWorld,Gift Card,Returning,Weekend,96.65,3,48.91,32.22,GroceryWorld | Returning Customer | Spent: $96.65
+852,DiscountStore,Gift Card,New,Weekend,75.85,5,39.25,15.17,DiscountStore | New Customer | Spent: $75.85
+853,MegaShop,Gift Card,Returning,Weekend,88.37,4,31.32,22.09,MegaShop | Returning Customer | Spent: $88.37
+854,QuickBuy,Credit Card,Loyal,Weekday,87.59,2,23.4,43.8,QuickBuy | Loyal Customer | Spent: $87.59
+855,MegaShop,Credit Card,New,Weekend,85.67,3,22.07,28.56,MegaShop | New Customer | Spent: $85.67
+856,MegaShop,Mobile Payment,New,Weekday,62.35,3,13.86,20.78,MegaShop | New Customer | Spent: $62.35
+857,GroceryWorld,Gift Card,Returning,Weekend,96.17,5,23.53,19.23,GroceryWorld | Returning Customer | Spent: $96.17
+858,MegaShop,Credit Card,Loyal,Weekday,83.18,1,-1.8,83.18,MegaShop | Loyal Customer | Spent: $83.18
+859,SuperMart,Mobile Payment,New,Weekday,12.12,4,18.96,3.03,SuperMart | New Customer | Spent: $12.12
+860,GroceryWorld,Gift Card,New,Weekend,161.59,0,25.34,0.0,GroceryWorld | New Customer | Spent: $161.59
+861,SuperMart,Cash,New,Weekend,132.66,2,39.15,66.33,SuperMart | New Customer | Spent: $132.66
+862,QuickBuy,Mobile Payment,New,Weekday,88.71,2,29.4,44.36,QuickBuy | New Customer | Spent: $88.71
+863,GroceryWorld,Credit Card,Returning,Weekend,100.56,1,41.92,100.56,GroceryWorld | Returning Customer | Spent: $100.56
+864,QuickBuy,Credit Card,Returning,Weekday,64.85,4,50.24,16.21,QuickBuy | Returning Customer | Spent: $64.85
+865,GroceryWorld,Mobile Payment,Returning,Weekday,150.87,5,45.87,30.17,GroceryWorld | Returning Customer | Spent: $150.87
+866,DiscountStore,Mobile Payment,Returning,Weekday,156.92,2,37.06,78.46,DiscountStore | Returning Customer | Spent: $156.92
+867,MegaShop,Credit Card,New,Weekday,104.7,4,30.18,26.18,MegaShop | New Customer | Spent: $104.7
+868,DiscountStore,Cash,Loyal,Weekday,130.71,4,15.29,32.68,DiscountStore | Loyal Customer | Spent: $130.71
+869,QuickBuy,Gift Card,Returning,Weekday,105.26,2,41.1,52.63,QuickBuy | Returning Customer | Spent: $105.26
+870,MegaShop,Cash,Loyal,Weekday,59.9,2,55.2,29.95,MegaShop | Loyal Customer | Spent: $59.9
+871,GroceryWorld,Mobile Payment,Returning,Weekend,87.65,3,35.13,29.22,GroceryWorld | Returning Customer | Spent: $87.65
+872,MegaShop,Cash,New,Weekday,103.96,3,58.76,34.65,MegaShop | New Customer | Spent: $103.96
+873,SuperMart,Credit Card,Returning,Weekend,86.36,3,7.12,28.79,SuperMart | Returning Customer | Spent: $86.36
+874,MegaShop,Mobile Payment,New,Weekday,93.44,4,12.69,23.36,MegaShop | New Customer | Spent: $93.44
+875,SuperMart,Gift Card,Returning,Weekend,97.26,5,42.83,19.45,SuperMart | Returning Customer | Spent: $97.26
+876,MegaShop,Credit Card,New,Weekday,97.57,4,33.96,24.39,MegaShop | New Customer | Spent: $97.57
+877,SuperMart,Credit Card,New,Weekday,101.57,4,49.71,25.39,SuperMart | New Customer | Spent: $101.57
+878,QuickBuy,Gift Card,Loyal,Weekday,68.18,2,29.77,34.09,QuickBuy | Loyal Customer | Spent: $68.18
+879,DiscountStore,Gift Card,New,Weekday,78.49,2,16.98,39.24,DiscountStore | New Customer | Spent: $78.49
+880,GroceryWorld,Cash,Loyal,Weekday,61.46,5,26.8,12.29,GroceryWorld | Loyal Customer | Spent: $61.46
+881,MegaShop,Mobile Payment,New,Weekend,129.33,2,7.01,64.67,MegaShop | New Customer | Spent: $129.33
+882,DiscountStore,Gift Card,Returning,Weekend,36.83,1,13.07,36.83,DiscountStore | Returning Customer | Spent: $36.83
+883,GroceryWorld,Gift Card,Returning,Weekend,134.61,2,44.59,67.3,GroceryWorld | Returning Customer | Spent: $134.61
+884,GroceryWorld,Mobile Payment,Returning,Weekend,141.59,4,43.09,35.4,GroceryWorld | Returning Customer | Spent: $141.59
+885,SuperMart,Gift Card,New,Weekday,90.93,2,35.45,45.47,SuperMart | New Customer | Spent: $90.93
+886,QuickBuy,Gift Card,New,Weekday,21.91,4,4.18,5.48,QuickBuy | New Customer | Spent: $21.91
+887,QuickBuy,Cash,New,Weekday,89.16,1,24.62,89.16,QuickBuy | New Customer | Spent: $89.16
+888,DiscountStore,Credit Card,New,Weekday,98.07,3,11.63,32.69,DiscountStore | New Customer | Spent: $98.07
+889,QuickBuy,Credit Card,Returning,Weekday,69.68,5,47.65,13.94,QuickBuy | Returning Customer | Spent: $69.68
+890,MegaShop,Credit Card,Loyal,Weekday,84.54,4,21.24,21.14,MegaShop | Loyal Customer | Spent: $84.54
+891,QuickBuy,Credit Card,Loyal,Weekday,145.91,1,13.71,145.91,QuickBuy | Loyal Customer | Spent: $145.91
+892,DiscountStore,Gift Card,Returning,Weekday,119.95,2,30.45,59.97,DiscountStore | Returning Customer | Spent: $119.95
+893,QuickBuy,Mobile Payment,Returning,Weekend,72.26,2,20.4,36.13,QuickBuy | Returning Customer | Spent: $72.26
+894,MegaShop,Mobile Payment,Returning,Weekend,52.07,7,52.26,7.44,MegaShop | Returning Customer | Spent: $52.07
+895,SuperMart,Cash,New,Weekday,90.19,2,18.98,45.09,SuperMart | New Customer | Spent: $90.19
+896,DiscountStore,Cash,Loyal,Weekend,93.6,3,9.01,31.2,DiscountStore | Loyal Customer | Spent: $93.6
+897,SuperMart,Gift Card,Returning,Weekend,114.89,3,-2.29,38.3,SuperMart | Returning Customer | Spent: $114.89
+898,SuperMart,Mobile Payment,Returning,Weekday,83.94,6,29.54,13.99,SuperMart | Returning Customer | Spent: $83.94
+899,SuperMart,Mobile Payment,New,Weekday,115.34,2,21.57,57.67,SuperMart | New Customer | Spent: $115.34
+900,GroceryWorld,Credit Card,Returning,Weekday,158.05,2,8.57,79.03,GroceryWorld | Returning Customer | Spent: $158.05
+901,GroceryWorld,Gift Card,Returning,Weekend,124.47,2,47.84,62.23,GroceryWorld | Returning Customer | Spent: $124.47
+902,SuperMart,Gift Card,Loyal,Weekend,98.56,1,40.01,98.56,SuperMart | Loyal Customer | Spent: $98.56
+903,DiscountStore,Credit Card,Returning,Weekday,94.51,3,29.58,31.5,DiscountStore | Returning Customer | Spent: $94.51
+904,MegaShop,Gift Card,New,Weekday,89.3,5,50.46,17.86,MegaShop | New Customer | Spent: $89.3
+905,MegaShop,Gift Card,Loyal,Weekday,135.42,4,39.94,33.85,MegaShop | Loyal Customer | Spent: $135.42
+906,QuickBuy,Cash,New,Weekday,81.18,4,17.66,20.3,QuickBuy | New Customer | Spent: $81.18
+907,DiscountStore,Mobile Payment,Returning,Weekday,101.36,3,14.41,33.79,DiscountStore | Returning Customer | Spent: $101.36
+908,GroceryWorld,Gift Card,New,Weekend,101.54,2,42.27,50.77,GroceryWorld | New Customer | Spent: $101.54
+909,SuperMart,Cash,Returning,Weekend,84.95,4,35.95,21.24,SuperMart | Returning Customer | Spent: $84.95
+910,QuickBuy,Mobile Payment,Loyal,Weekend,58.83,3,32.55,19.61,QuickBuy | Loyal Customer | Spent: $58.83
+911,MegaShop,Credit Card,New,Weekend,109.69,3,17.3,36.56,MegaShop | New Customer | Spent: $109.69
+912,GroceryWorld,Cash,Loyal,Weekend,98.17,1,39.12,98.17,GroceryWorld | Loyal Customer | Spent: $98.17
+913,GroceryWorld,Cash,New,Weekday,115.01,4,18.67,28.75,GroceryWorld | New Customer | Spent: $115.01
+914,SuperMart,Mobile Payment,Loyal,Weekend,83.99,3,28.47,28.0,SuperMart | Loyal Customer | Spent: $83.99
+915,MegaShop,Credit Card,Returning,Weekday,136.62,1,51.7,136.62,MegaShop | Returning Customer | Spent: $136.62
+916,DiscountStore,Cash,Loyal,Weekend,73.7,1,20.09,73.7,DiscountStore | Loyal Customer | Spent: $73.7
+917,GroceryWorld,Gift Card,New,Weekday,151.36,1,6.41,151.36,GroceryWorld | New Customer | Spent: $151.36
+918,SuperMart,Gift Card,Loyal,Weekend,47.57,2,14.21,23.79,SuperMart | Loyal Customer | Spent: $47.57
+919,DiscountStore,Gift Card,Returning,Weekday,113.04,3,44.91,37.68,DiscountStore | Returning Customer | Spent: $113.04
+920,MegaShop,Credit Card,New,Weekday,114.26,3,33.82,38.09,MegaShop | New Customer | Spent: $114.26
+921,GroceryWorld,Cash,Loyal,Weekday,76.13,3,28.07,25.38,GroceryWorld | Loyal Customer | Spent: $76.13
+922,DiscountStore,Gift Card,New,Weekday,112.73,1,22.36,112.73,DiscountStore | New Customer | Spent: $112.73
+923,DiscountStore,Credit Card,Loyal,Weekend,138.39,3,37.28,46.13,DiscountStore | Loyal Customer | Spent: $138.39
+924,DiscountStore,Gift Card,New,Weekend,33.5,2,17.26,16.75,DiscountStore | New Customer | Spent: $33.5
+925,GroceryWorld,Mobile Payment,Returning,Weekday,115.08,1,34.58,115.08,GroceryWorld | Returning Customer | Spent: $115.08
+926,GroceryWorld,Cash,Returning,Weekday,25.2,1,19.03,25.2,GroceryWorld | Returning Customer | Spent: $25.2
+927,QuickBuy,Cash,New,Weekday,71.03,1,16.54,71.03,QuickBuy | New Customer | Spent: $71.03
+928,MegaShop,Credit Card,New,Weekday,148.87,4,20.44,37.22,MegaShop | New Customer | Spent: $148.87
+929,SuperMart,Credit Card,New,Weekday,82.55,3,24.37,27.52,SuperMart | New Customer | Spent: $82.55
+930,DiscountStore,Cash,Returning,Weekend,64.78,2,29.27,32.39,DiscountStore | Returning Customer | Spent: $64.78
+931,QuickBuy,Gift Card,New,Weekday,94.06,2,33.53,47.03,QuickBuy | New Customer | Spent: $94.06
+932,SuperMart,Gift Card,Returning,Weekday,162.04,3,-25.33,54.01,SuperMart | Returning Customer | Spent: $162.04
+933,QuickBuy,Mobile Payment,New,Weekday,45.05,2,17.89,22.52,QuickBuy | New Customer | Spent: $45.05
+934,GroceryWorld,Gift Card,New,Weekday,68.46,4,24.13,17.12,GroceryWorld | New Customer | Spent: $68.46
+935,DiscountStore,Credit Card,Returning,Weekday,144.92,2,52.58,72.46,DiscountStore | Returning Customer | Spent: $144.92
+936,SuperMart,Credit Card,New,Weekend,155.73,3,13.8,51.91,SuperMart | New Customer | Spent: $155.73
+937,SuperMart,Gift Card,Loyal,Weekday,96.9,5,32.44,19.38,SuperMart | Loyal Customer | Spent: $96.9
+938,SuperMart,Credit Card,Loyal,Weekday,62.83,5,52.43,12.57,SuperMart | Loyal Customer | Spent: $62.83
+939,SuperMart,Cash,Returning,Weekday,162.88,2,10.31,81.44,SuperMart | Returning Customer | Spent: $162.88
+940,SuperMart,Cash,Returning,Weekday,147.83,1,35.91,147.83,SuperMart | Returning Customer | Spent: $147.83
+941,QuickBuy,Gift Card,Loyal,Weekday,120.37,1,17.97,120.37,QuickBuy | Loyal Customer | Spent: $120.37
+942,DiscountStore,Cash,New,Weekend,75.63,4,22.43,18.91,DiscountStore | New Customer | Spent: $75.63
+943,GroceryWorld,Cash,New,Weekend,98.53,1,17.95,98.53,GroceryWorld | New Customer | Spent: $98.53
+944,GroceryWorld,Mobile Payment,New,Weekday,95.19,4,19.02,23.8,GroceryWorld | New Customer | Spent: $95.19
+945,GroceryWorld,Mobile Payment,Returning,Weekday,109.93,1,70.83,109.93,GroceryWorld | Returning Customer | Spent: $109.93
+946,GroceryWorld,Cash,New,Weekday,143.53,5,42.67,28.71,GroceryWorld | New Customer | Spent: $143.53
+947,QuickBuy,Gift Card,Returning,Weekday,126.38,1,46.53,126.38,QuickBuy | Returning Customer | Spent: $126.38
+948,MegaShop,Mobile Payment,Loyal,Weekend,67.68,1,37.38,67.68,MegaShop | Loyal Customer | Spent: $67.68
+949,DiscountStore,Credit Card,Loyal,Weekend,141.29,2,5.91,70.65,DiscountStore | Loyal Customer | Spent: $141.29
+950,SuperMart,Credit Card,Returning,Weekday,109.39,4,35.92,27.35,SuperMart | Returning Customer | Spent: $109.39
+951,MegaShop,Credit Card,New,Weekday,120.61,0,46.09,0.0,MegaShop | New Customer | Spent: $120.61
+952,GroceryWorld,Gift Card,Loyal,Weekday,144.0,4,17.2,36.0,GroceryWorld | Loyal Customer | Spent: $144.0
+953,MegaShop,Cash,Returning,Weekend,66.65,0,44.48,0.0,MegaShop | Returning Customer | Spent: $66.65
+954,DiscountStore,Credit Card,New,Weekend,98.93,1,40.57,98.93,DiscountStore | New Customer | Spent: $98.93
+955,SuperMart,Gift Card,New,Weekday,84.06,3,57.78,28.02,SuperMart | New Customer | Spent: $84.06
+956,SuperMart,Mobile Payment,Loyal,Weekday,52.96,1,23.73,52.96,SuperMart | Loyal Customer | Spent: $52.96
+957,DiscountStore,Cash,Returning,Weekend,110.4,4,13.54,27.6,DiscountStore | Returning Customer | Spent: $110.4
+958,DiscountStore,Mobile Payment,Loyal,Weekday,175.35,3,24.58,58.45,DiscountStore | Loyal Customer | Spent: $175.35
+959,GroceryWorld,Gift Card,Loyal,Weekday,44.8,2,51.53,22.4,GroceryWorld | Loyal Customer | Spent: $44.8
+960,SuperMart,Credit Card,Returning,Weekday,99.03,4,2.57,24.76,SuperMart | Returning Customer | Spent: $99.03
+961,MegaShop,Credit Card,Returning,Weekend,119.22,7,-1.03,17.03,MegaShop | Returning Customer | Spent: $119.22
+962,QuickBuy,Gift Card,Returning,Weekday,103.69,4,31.34,25.92,QuickBuy | Returning Customer | Spent: $103.69
+963,QuickBuy,Credit Card,New,Weekday,96.61,4,23.36,24.15,QuickBuy | New Customer | Spent: $96.61
+964,DiscountStore,Cash,Returning,Weekend,61.02,3,30.12,20.34,DiscountStore | Returning Customer | Spent: $61.02
+965,GroceryWorld,Gift Card,Returning,Weekday,106.98,3,44.18,35.66,GroceryWorld | Returning Customer | Spent: $106.98
+966,QuickBuy,Mobile Payment,Returning,Weekday,77.3,2,21.71,38.65,QuickBuy | Returning Customer | Spent: $77.3
+967,SuperMart,Gift Card,Loyal,Weekday,34.3,2,1.9,17.15,SuperMart | Loyal Customer | Spent: $34.3
+968,DiscountStore,Cash,Returning,Weekday,135.84,3,60.67,45.28,DiscountStore | Returning Customer | Spent: $135.84
+969,MegaShop,Cash,Returning,Weekend,128.75,3,15.04,42.92,MegaShop | Returning Customer | Spent: $128.75
+970,DiscountStore,Gift Card,Returning,Weekday,101.55,2,14.11,50.77,DiscountStore | Returning Customer | Spent: $101.55
+971,MegaShop,Gift Card,Returning,Weekday,106.87,3,46.56,35.62,MegaShop | Returning Customer | Spent: $106.87
+972,DiscountStore,Credit Card,Returning,Weekday,132.23,3,24.23,44.08,DiscountStore | Returning Customer | Spent: $132.23
+973,DiscountStore,Cash,New,Weekend,106.73,3,29.05,35.58,DiscountStore | New Customer | Spent: $106.73
+974,DiscountStore,Gift Card,Returning,Weekend,127.12,4,37.24,31.78,DiscountStore | Returning Customer | Spent: $127.12
+975,MegaShop,Gift Card,New,Weekday,91.08,3,46.25,30.36,MegaShop | New Customer | Spent: $91.08
+976,MegaShop,Cash,New,Weekday,139.36,8,25.0,17.42,MegaShop | New Customer | Spent: $139.36
+977,DiscountStore,Gift Card,Returning,Weekend,109.62,3,52.8,36.54,DiscountStore | Returning Customer | Spent: $109.62
+978,QuickBuy,Credit Card,Returning,Weekday,105.82,2,-2.04,52.91,QuickBuy | Returning Customer | Spent: $105.82
+979,GroceryWorld,Cash,Loyal,Weekend,61.9,4,41.4,15.47,GroceryWorld | Loyal Customer | Spent: $61.9
+980,GroceryWorld,Credit Card,Returning,Weekend,108.61,0,17.41,0.0,GroceryWorld | Returning Customer | Spent: $108.61
+981,GroceryWorld,Credit Card,Returning,Weekend,75.04,4,50.58,18.76,GroceryWorld | Returning Customer | Spent: $75.04
+982,MegaShop,Credit Card,Returning,Weekday,80.85,2,32.13,40.43,MegaShop | Returning Customer | Spent: $80.85
+983,MegaShop,Credit Card,Returning,Weekday,75.54,1,19.91,75.54,MegaShop | Returning Customer | Spent: $75.54
+984,QuickBuy,Cash,New,Weekend,68.01,2,39.94,34.01,QuickBuy | New Customer | Spent: $68.01
+985,GroceryWorld,Credit Card,New,Weekday,163.74,1,43.4,163.74,GroceryWorld | New Customer | Spent: $163.74
+986,GroceryWorld,Credit Card,New,Weekday,139.94,1,39.63,139.94,GroceryWorld | New Customer | Spent: $139.94
+987,DiscountStore,Gift Card,Returning,Weekend,157.61,4,14.55,39.4,DiscountStore | Returning Customer | Spent: $157.61
+988,MegaShop,Cash,New,Weekend,63.31,3,22.74,21.1,MegaShop | New Customer | Spent: $63.31
+989,GroceryWorld,Cash,New,Weekday,102.14,2,29.94,51.07,GroceryWorld | New Customer | Spent: $102.14
+990,QuickBuy,Mobile Payment,New,Weekday,61.19,3,29.38,20.4,QuickBuy | New Customer | Spent: $61.19
+991,QuickBuy,Cash,Loyal,Weekday,79.13,3,41.25,26.38,QuickBuy | Loyal Customer | Spent: $79.13
+992,GroceryWorld,Cash,New,Weekend,72.46,3,-0.22,24.15,GroceryWorld | New Customer | Spent: $72.46
+993,MegaShop,Mobile Payment,Returning,Weekend,137.19,5,35.01,27.44,MegaShop | Returning Customer | Spent: $137.19
+994,QuickBuy,Cash,New,Weekday,88.11,4,25.65,22.03,QuickBuy | New Customer | Spent: $88.11
+995,DiscountStore,Cash,Returning,Weekday,132.05,1,17.42,132.05,DiscountStore | Returning Customer | Spent: $132.05
+996,QuickBuy,Cash,New,Weekend,118.12,2,18.86,59.06,QuickBuy | New Customer | Spent: $118.12
+997,SuperMart,Cash,New,Weekday,169.11,3,26.78,56.37,SuperMart | New Customer | Spent: $169.11
+998,SuperMart,Mobile Payment,Returning,Weekday,55.62,3,-24.02,18.54,SuperMart | Returning Customer | Spent: $55.62
+999,MegaShop,Cash,New,Weekend,137.78,5,19.48,27.56,MegaShop | New Customer | Spent: $137.78
+1000,GroceryWorld,Cash,New,Weekday,134.39,2,16.86,67.2,GroceryWorld | New Customer | Spent: $134.39
